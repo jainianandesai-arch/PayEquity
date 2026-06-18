@@ -1,0 +1,6 @@
+role_level,min_salary,mid_salary,max_salary,source
+Analyst,52000,67000,82000,Replace with your internal bands
+Senior Analyst,72000,87000,102000,Replace with your internal bands
+Manager,95000,112000,130000,Replace with your internal bands
+Director,120000,145000,165000,Replace with your internal bands
+VP,165000,192000,220000,Replace with your internal bands

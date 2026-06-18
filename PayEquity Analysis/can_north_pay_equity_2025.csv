@@ -1,0 +1,1401 @@
+employee_id,gender,role_level,division,location,tenure_years,performance,salary,years_in_role,role_level_encoded
+CNF0001,Female,Senior Analyst,Pension Administration,Calgary,1,77.1,78500.0,0,2
+CNF0002,Male,VP,Pension Administration,Vancouver,1,78.8,213400.0,0,5
+CNF0003,Male,Manager,Pension Administration,Vancouver,0,52.6,117400.0,0,3
+CNF0004,Female,Manager,Wealth Management,Vancouver,5,49.0,113600.0,4,3
+CNF0005,Male,Analyst,Wealth Management,Toronto,0,59.6,75900.0,0,1
+CNF0006,Male,Analyst,Wealth Management,Vancouver,4,60.7,74600.0,1,1
+CNF0007,Female,Analyst,Retail Banking,Calgary,10,80.5,73600.0,6,1
+CNF0008,Female,Director,Retail Banking,Toronto,11,61.4,140000.0,6,4
+CNF0009,Male,Manager,Wealth Management,Toronto,2,58.0,109900.0,1,3
+CNF0010,Male,Manager,Retail Banking,Calgary,3,61.4,100500.0,2,3
+CNF0011,Male,Analyst,Pension Administration,Toronto,0,85.7,75600.0,0,1
+CNF0012,Female,VP,Pension Administration,Calgary,5,70.2,181500.0,3,5
+CNF0013,Female,Director,Pension Administration,Calgary,8,67.5,145000.0,3,4
+CNF0014,Male,Analyst,Pension Administration,Toronto,1,68.5,65000.0,0,1
+CNF0015,Female,Analyst,Wealth Management,Toronto,2,88.1,76400.0,1,1
+CNF0016,Female,Analyst,Retail Banking,Calgary,9,59.5,67700.0,8,1
+CNF0017,Male,Senior Analyst,Pension Administration,Toronto,10,88.4,109700.0,3,2
+CNF0018,Male,Senior Analyst,Pension Administration,Toronto,1,72.9,93000.0,1,2
+CNF0019,Female,Senior Analyst,Wealth Management,Toronto,3,67.8,100500.0,1,2
+CNF0020,Male,Analyst,Retail Banking,Toronto,1,100.0,80400.0,0,1
+CNF0021,Male,Manager,Pension Administration,Vancouver,0,55.2,116500.0,0,3
+CNF0022,Female,Analyst,Wealth Management,Toronto,12,65.0,80700.0,9,1
+CNF0023,Female,Analyst,Pension Administration,Calgary,8,52.7,61700.0,7,1
+CNF0024,Female,Senior Analyst,Pension Administration,Toronto,7,83.3,89100.0,4,2
+CNF0025,Female,Senior Analyst,Retail Banking,Toronto,0,93.6,84200.0,0,2
+CNF0026,Female,Manager,Retail Banking,Calgary,9,93.4,125300.0,6,3
+CNF0027,Male,Analyst,Pension Administration,Calgary,2,87.1,84100.0,1,1
+CNF0028,Female,Senior Analyst,Retail Banking,Toronto,2,67.2,86600.0,1,2
+CNF0029,Male,Manager,Wealth Management,Toronto,3,64.9,114900.0,1,3
+CNF0030,Male,Analyst,Retail Banking,Toronto,0,46.6,63300.0,0,1
+CNF0031,Female,Manager,Wealth Management,Toronto,7,98.5,124200.0,6,3
+CNF0032,Female,Analyst,Wealth Management,Calgary,4,76.6,81800.0,3,1
+CNF0033,Male,Analyst,Wealth Management,Toronto,1,63.1,75400.0,1,1
+CNF0034,Female,VP,Wealth Management,Toronto,1,88.6,205200.0,0,5
+CNF0035,Male,VP,Pension Administration,Toronto,1,56.4,184200.0,0,5
+CNF0036,Male,Director,Pension Administration,Vancouver,0,75.7,157000.0,0,4
+CNF0037,Male,Senior Analyst,Pension Administration,Vancouver,4,67.6,84000.0,2,2
+CNF0038,Female,Analyst,Wealth Management,Toronto,9,78.9,81400.0,8,1
+CNF0039,Female,Manager,Pension Administration,Calgary,0,69.1,99200.0,0,3
+CNF0040,Male,Senior Analyst,Wealth Management,Toronto,0,49.7,80400.0,0,2
+CNF0041,Female,Analyst,Retail Banking,Toronto,4,71.1,65100.0,2,1
+CNF0042,Male,Senior Analyst,Pension Administration,Calgary,8,84.7,112800.0,4,2
+CNF0043,Female,Analyst,Wealth Management,Vancouver,1,69.6,87400.0,0,1
+CNF0044,Male,Director,Wealth Management,Vancouver,2,80.9,163700.0,1,4
+CNF0045,Male,Analyst,Retail Banking,Toronto,4,55.4,72200.0,3,1
+CNF0046,Female,Manager,Pension Administration,Toronto,1,69.6,111800.0,0,3
+CNF0047,Male,Senior Analyst,Wealth Management,Calgary,0,61.3,94900.0,0,2
+CNF0048,Male,Senior Analyst,Retail Banking,Toronto,6,80.5,94400.0,4,2
+CNF0049,Female,Senior Analyst,Retail Banking,Toronto,4,70.4,85400.0,2,2
+CNF0050,Female,Analyst,Wealth Management,Toronto,4,79.7,83700.0,1,1
+CNF0051,Male,VP,Wealth Management,Calgary,6,85.2,209600.0,5,5
+CNF0052,Male,Manager,Wealth Management,Toronto,5,79.7,132600.0,4,3
+CNF0053,Male,VP,Retail Banking,Toronto,1,73.8,193000.0,0,5
+CNF0054,Male,Director,Wealth Management,Vancouver,2,56.0,159400.0,1,4
+CNF0055,Male,Manager,Pension Administration,Toronto,0,70.0,108600.0,0,3
+CNF0056,Female,Director,Retail Banking,Toronto,0,62.5,131600.0,0,4
+CNF0057,Female,Analyst,Wealth Management,Toronto,5,65.2,88000.0,2,1
+CNF0058,Male,Analyst,Wealth Management,Toronto,9,64.8,94000.0,4,1
+CNF0059,Male,Analyst,Pension Administration,Toronto,16,56.3,90900.0,12,1
+CNF0060,Male,Senior Analyst,Wealth Management,Toronto,4,42.6,94200.0,3,2
+CNF0061,Male,Senior Analyst,Wealth Management,Vancouver,1,60.6,96600.0,0,2
+CNF0062,Female,Analyst,Wealth Management,Toronto,0,72.7,78500.0,0,1
+CNF0063,Male,Director,Pension Administration,Vancouver,8,51.1,160500.0,6,4
+CNF0064,Male,Senior Analyst,Wealth Management,Toronto,4,70.2,92000.0,3,2
+CNF0065,Female,Analyst,Retail Banking,Toronto,4,96.6,65500.0,3,1
+CNF0066,Male,Senior Analyst,Pension Administration,Toronto,7,84.3,111600.0,6,2
+CNF0067,Female,Analyst,Retail Banking,Toronto,6,93.0,72600.0,4,1
+CNF0068,Male,Director,Wealth Management,Calgary,8,75.5,162700.0,6,4
+CNF0069,Female,Analyst,Retail Banking,Toronto,0,86.3,56700.0,0,1
+CNF0070,Female,VP,Retail Banking,Toronto,6,59.9,180400.0,3,5
+CNF0071,Female,Manager,Wealth Management,Vancouver,9,61.0,113700.0,5,3
+CNF0072,Female,Analyst,Wealth Management,Vancouver,1,31.7,70600.0,0,1
+CNF0073,Male,Analyst,Retail Banking,Vancouver,5,86.6,75400.0,4,1
+CNF0074,Male,Director,Wealth Management,Toronto,1,91.6,167200.0,0,4
+CNF0075,Female,Manager,Pension Administration,Calgary,15,62.3,123000.0,5,3
+CNF0076,Female,Manager,Wealth Management,Toronto,0,66.4,121000.0,0,3
+CNF0077,Male,Manager,Retail Banking,Toronto,4,59.4,117600.0,2,3
+CNF0078,Male,Analyst,Retail Banking,Toronto,0,75.4,73300.0,0,1
+CNF0079,Male,Senior Analyst,Retail Banking,Toronto,6,85.7,94400.0,4,2
+CNF0080,Male,Analyst,Wealth Management,Toronto,0,45.6,67700.0,0,1
+CNF0081,Male,Director,Retail Banking,Toronto,1,75.7,153600.0,1,4
+CNF0082,Female,Manager,Pension Administration,Vancouver,3,66.1,106400.0,2,3
+CNF0083,Male,Senior Analyst,Wealth Management,Toronto,12,71.6,112300.0,10,2
+CNF0084,Male,Analyst,Pension Administration,Toronto,1,76.4,76600.0,0,1
+CNF0085,Female,Senior Analyst,Pension Administration,Toronto,0,67.4,87300.0,0,2
+CNF0086,Female,Senior Analyst,Wealth Management,Vancouver,7,68.5,87100.0,4,2
+CNF0087,Female,Manager,Wealth Management,Toronto,3,67.0,124200.0,2,3
+CNF0088,Female,Manager,Wealth Management,Toronto,12,83.6,133600.0,9,3
+CNF0089,Male,Director,Wealth Management,Calgary,0,75.9,161300.0,0,4
+CNF0090,Female,Senior Analyst,Wealth Management,Calgary,5,73.1,100900.0,2,2
+CNF0091,Female,Analyst,Pension Administration,Toronto,1,52.2,68900.0,0,1
+CNF0092,Male,Manager,Wealth Management,Calgary,0,64.7,126300.0,0,3
+CNF0093,Female,Manager,Pension Administration,Calgary,5,82.6,124700.0,3,3
+CNF0094,Female,Senior Analyst,Pension Administration,Calgary,4,70.5,94900.0,3,2
+CNF0095,Male,Manager,Wealth Management,Toronto,7,79.2,136700.0,5,3
+CNF0096,Male,Senior Analyst,Wealth Management,Vancouver,1,94.7,106800.0,0,2
+CNF0097,Male,Senior Analyst,Wealth Management,Toronto,2,84.5,111600.0,1,2
+CNF0098,Male,Senior Analyst,Wealth Management,Toronto,2,71.3,106100.0,1,2
+CNF0099,Male,Analyst,Wealth Management,Toronto,20,62.8,95000.0,12,1
+CNF0100,Female,Analyst,Retail Banking,Toronto,1,34.3,50400.0,1,1
+CNF0101,Male,Analyst,Wealth Management,Toronto,1,67.6,78900.0,0,1
+CNF0102,Female,Manager,Wealth Management,Calgary,2,65.4,110100.0,0,3
+CNF0103,Female,Senior Analyst,Pension Administration,Toronto,4,75.5,98800.0,3,2
+CNF0104,Female,Senior Analyst,Pension Administration,Toronto,1,67.8,85100.0,0,2
+CNF0105,Female,Director,Wealth Management,Toronto,12,65.5,172000.0,11,4
+CNF0106,Male,Analyst,Wealth Management,Toronto,1,45.1,61500.0,0,1
+CNF0107,Male,Senior Analyst,Wealth Management,Vancouver,11,56.8,100800.0,10,2
+CNF0108,Female,Manager,Wealth Management,Toronto,0,76.7,119000.0,0,3
+CNF0109,Female,Analyst,Wealth Management,Toronto,5,94.0,93400.0,4,1
+CNF0110,Female,Analyst,Retail Banking,Toronto,11,68.6,73200.0,7,1
+CNF0111,Male,Analyst,Retail Banking,Toronto,0,74.6,68500.0,0,1
+CNF0112,Female,Analyst,Wealth Management,Toronto,17,83.3,87900.0,16,1
+CNF0113,Male,Director,Retail Banking,Calgary,3,58.6,135500.0,1,4
+CNF0114,Female,Director,Pension Administration,Vancouver,14,75.1,156900.0,9,4
+CNF0115,Female,Manager,Pension Administration,Toronto,5,59.6,103400.0,3,3
+CNF0116,Male,Director,Pension Administration,Calgary,1,82.1,150000.0,0,4
+CNF0117,Female,Director,Wealth Management,Calgary,1,72.1,150200.0,0,4
+CNF0118,Male,Analyst,Retail Banking,Calgary,1,74.2,59600.0,0,1
+CNF0119,Male,Director,Pension Administration,Toronto,0,59.0,155800.0,0,4
+CNF0120,Male,Senior Analyst,Retail Banking,Toronto,0,79.9,95800.0,0,2
+CNF0121,Female,Director,Pension Administration,Toronto,0,99.2,140300.0,0,4
+CNF0122,Female,Director,Retail Banking,Calgary,2,55.9,124300.0,0,4
+CNF0123,Female,Senior Analyst,Wealth Management,Calgary,7,65.2,81900.0,2,2
+CNF0124,Male,Analyst,Pension Administration,Toronto,0,73.2,66400.0,0,1
+CNF0125,Female,Analyst,Wealth Management,Toronto,0,81.0,79900.0,0,1
+CNF0126,Female,Senior Analyst,Pension Administration,Vancouver,5,62.2,83000.0,1,2
+CNF0127,Male,Director,Pension Administration,Calgary,1,30.3,137900.0,0,4
+CNF0128,Female,Director,Pension Administration,Vancouver,0,89.0,135000.0,0,4
+CNF0129,Male,Analyst,Retail Banking,Calgary,0,80.6,70500.0,0,1
+CNF0130,Female,Senior Analyst,Wealth Management,Toronto,12,45.6,93400.0,5,2
+CNF0131,Male,Senior Analyst,Pension Administration,Toronto,8,61.5,96900.0,2,2
+CNF0132,Male,Analyst,Wealth Management,Calgary,2,92.0,85400.0,1,1
+CNF0133,Male,Analyst,Wealth Management,Toronto,5,90.3,84200.0,4,1
+CNF0134,Female,Senior Analyst,Pension Administration,Toronto,3,83.1,85600.0,2,2
+CNF0135,Male,VP,Wealth Management,Calgary,5,67.5,211600.0,2,5
+CNF0136,Male,Senior Analyst,Pension Administration,Toronto,5,71.2,99500.0,2,2
+CNF0137,Female,Senior Analyst,Pension Administration,Calgary,4,68.2,91800.0,2,2
+CNF0138,Female,Manager,Wealth Management,Toronto,1,85.8,126000.0,1,3
+CNF0139,Male,Senior Analyst,Pension Administration,Vancouver,0,57.7,84600.0,0,2
+CNF0140,Male,VP,Wealth Management,Toronto,3,58.7,193200.0,2,5
+CNF0141,Male,VP,Wealth Management,Toronto,11,84.1,219100.0,6,5
+CNF0142,Male,Analyst,Pension Administration,Calgary,4,69.4,72200.0,2,1
+CNF0143,Female,Senior Analyst,Wealth Management,Toronto,8,89.3,119800.0,5,2
+CNF0144,Female,Senior Analyst,Pension Administration,Calgary,23,60.6,105500.0,8,2
+CNF0145,Female,Analyst,Retail Banking,Calgary,0,69.2,64400.0,0,1
+CNF0146,Male,Analyst,Wealth Management,Toronto,5,57.1,83800.0,2,1
+CNF0147,Female,Manager,Retail Banking,Toronto,5,70.1,106000.0,4,3
+CNF0148,Female,Senior Analyst,Wealth Management,Toronto,19,49.3,105400.0,6,2
+CNF0149,Female,Analyst,Pension Administration,Toronto,21,63.2,84800.0,20,1
+CNF0150,Female,Analyst,Wealth Management,Vancouver,5,49.9,63500.0,2,1
+CNF0151,Female,Director,Retail Banking,Calgary,1,79.7,134600.0,0,4
+CNF0152,Female,Analyst,Wealth Management,Calgary,8,80.0,80600.0,6,1
+CNF0153,Male,Analyst,Retail Banking,Calgary,0,45.8,63200.0,0,1
+CNF0154,Female,Senior Analyst,Retail Banking,Toronto,7,88.7,81300.0,4,2
+CNF0155,Female,VP,Pension Administration,Vancouver,12,100.0,214000.0,9,5
+CNF0156,Female,Analyst,Pension Administration,Calgary,2,70.6,58400.0,1,1
+CNF0157,Male,Manager,Wealth Management,Calgary,4,61.0,114200.0,1,3
+CNF0158,Female,Manager,Wealth Management,Vancouver,2,100.0,135400.0,1,3
+CNF0159,Female,Analyst,Retail Banking,Toronto,2,51.5,59700.0,0,1
+CNF0160,Male,Manager,Retail Banking,Calgary,1,70.3,116600.0,1,3
+CNF0161,Male,Senior Analyst,Wealth Management,Toronto,7,72.5,112500.0,2,2
+CNF0162,Female,Manager,Pension Administration,Toronto,13,88.8,142200.0,9,3
+CNF0163,Female,Manager,Retail Banking,Toronto,14,75.0,124300.0,10,3
+CNF0164,Female,Senior Analyst,Pension Administration,Vancouver,0,63.0,78100.0,0,2
+CNF0165,Male,Analyst,Retail Banking,Vancouver,10,56.7,72200.0,7,1
+CNF0166,Female,Director,Wealth Management,Calgary,6,65.2,158000.0,2,4
+CNF0167,Male,Senior Analyst,Wealth Management,Calgary,1,55.9,87400.0,0,2
+CNF0168,Male,Analyst,Pension Administration,Toronto,0,70.7,66300.0,0,1
+CNF0169,Male,Analyst,Wealth Management,Vancouver,1,62.1,73400.0,1,1
+CNF0170,Male,Manager,Wealth Management,Toronto,12,49.1,116800.0,10,3
+CNF0171,Male,Manager,Wealth Management,Toronto,5,87.6,136700.0,4,3
+CNF0172,Male,Analyst,Pension Administration,Toronto,6,63.0,64000.0,2,1
+CNF0173,Male,Senior Analyst,Wealth Management,Calgary,1,52.2,91100.0,0,2
+CNF0174,Male,Analyst,Retail Banking,Calgary,6,67.6,74100.0,2,1
+CNF0175,Male,Manager,Pension Administration,Toronto,0,71.0,112500.0,0,3
+CNF0176,Male,Analyst,Pension Administration,Toronto,2,45.5,74800.0,0,1
+CNF0177,Male,Manager,Pension Administration,Calgary,4,74.6,110400.0,3,3
+CNF0178,Female,Senior Analyst,Wealth Management,Toronto,0,55.3,93500.0,0,2
+CNF0179,Male,VP,Wealth Management,Calgary,8,94.0,222200.0,5,5
+CNF0180,Male,Analyst,Wealth Management,Vancouver,1,77.3,70300.0,0,1
+CNF0181,Male,Senior Analyst,Pension Administration,Toronto,5,64.4,111000.0,3,2
+CNF0182,Male,Analyst,Wealth Management,Toronto,2,59.6,77300.0,1,1
+CNF0183,Female,Director,Wealth Management,Calgary,4,68.5,144300.0,2,4
+CNF0184,Female,Director,Wealth Management,Calgary,0,78.6,139100.0,0,4
+CNF0185,Female,Analyst,Retail Banking,Toronto,0,69.6,57000.0,0,1
+CNF0186,Female,Manager,Pension Administration,Vancouver,12,67.0,118400.0,8,3
+CNF0187,Female,Director,Wealth Management,Toronto,1,70.8,150400.0,0,4
+CNF0188,Male,Senior Analyst,Wealth Management,Toronto,8,61.5,103000.0,7,2
+CNF0189,Male,Senior Analyst,Wealth Management,Calgary,25,65.2,123100.0,20,2
+CNF0190,Male,Analyst,Wealth Management,Vancouver,1,40.8,65500.0,0,1
+CNF0191,Male,Analyst,Wealth Management,Toronto,1,83.6,73200.0,0,1
+CNF0192,Female,Director,Retail Banking,Calgary,5,74.2,138800.0,2,4
+CNF0193,Female,Director,Pension Administration,Toronto,16,59.2,139100.0,13,4
+CNF0194,Male,Manager,Pension Administration,Toronto,12,96.6,140200.0,7,3
+CNF0195,Female,Senior Analyst,Wealth Management,Toronto,3,71.2,90500.0,1,2
+CNF0196,Female,Senior Analyst,Wealth Management,Vancouver,7,55.5,94200.0,3,2
+CNF0197,Male,Manager,Pension Administration,Toronto,0,82.0,127100.0,0,3
+CNF0198,Male,Director,Pension Administration,Toronto,18,75.6,165800.0,15,4
+CNF0199,Male,Director,Pension Administration,Toronto,16,75.5,175900.0,7,4
+CNF0200,Male,Manager,Retail Banking,Vancouver,0,64.0,103300.0,0,3
+CNF0201,Male,Manager,Pension Administration,Calgary,1,76.3,126700.0,0,3
+CNF0202,Male,Analyst,Pension Administration,Calgary,0,66.3,63500.0,0,1
+CNF0203,Male,Analyst,Pension Administration,Toronto,1,77.8,69700.0,0,1
+CNF0204,Male,Director,Wealth Management,Calgary,8,43.3,159600.0,7,4
+CNF0205,Female,Manager,Pension Administration,Toronto,2,63.9,107000.0,1,3
+CNF0206,Female,Analyst,Wealth Management,Calgary,0,94.1,71900.0,0,1
+CNF0207,Female,Analyst,Pension Administration,Vancouver,2,59.3,58200.0,1,1
+CNF0208,Male,Manager,Retail Banking,Toronto,19,61.5,127200.0,13,3
+CNF0209,Male,Analyst,Pension Administration,Calgary,4,63.7,78400.0,2,1
+CNF0210,Female,Analyst,Wealth Management,Toronto,2,53.0,57200.0,1,1
+CNF0211,Male,Senior Analyst,Retail Banking,Toronto,0,39.1,74300.0,0,2
+CNF0212,Male,Manager,Wealth Management,Toronto,21,66.8,147900.0,15,3
+CNF0213,Female,Manager,Wealth Management,Toronto,8,71.9,128100.0,3,3
+CNF0214,Female,Analyst,Pension Administration,Toronto,1,69.3,73100.0,0,1
+CNF0215,Male,Manager,Pension Administration,Calgary,0,68.0,110900.0,0,3
+CNF0216,Male,Analyst,Wealth Management,Toronto,0,70.6,77100.0,0,1
+CNF0217,Male,Senior Analyst,Retail Banking,Calgary,0,84.3,90600.0,0,2
+CNF0218,Male,Manager,Wealth Management,Toronto,4,67.3,128300.0,2,3
+CNF0219,Male,Manager,Wealth Management,Toronto,13,62.0,132600.0,10,3
+CNF0220,Male,Director,Wealth Management,Calgary,3,66.1,161200.0,1,4
+CNF0221,Male,Manager,Wealth Management,Toronto,9,78.1,132700.0,7,3
+CNF0222,Female,Senior Analyst,Pension Administration,Toronto,2,89.8,90100.0,1,2
+CNF0223,Female,Analyst,Wealth Management,Calgary,6,61.2,70000.0,4,1
+CNF0224,Female,Senior Analyst,Retail Banking,Toronto,6,71.4,94800.0,3,2
+CNF0225,Male,Analyst,Pension Administration,Toronto,0,74.7,52300.0,0,1
+CNF0226,Male,Analyst,Wealth Management,Toronto,2,56.1,78800.0,1,1
+CNF0227,Male,VP,Pension Administration,Vancouver,5,70.3,200000.0,3,5
+CNF0228,Male,Senior Analyst,Wealth Management,Calgary,0,49.5,77700.0,0,2
+CNF0229,Male,Director,Pension Administration,Calgary,2,45.2,143500.0,1,4
+CNF0230,Female,Manager,Wealth Management,Calgary,3,75.1,122600.0,1,3
+CNF0231,Female,Manager,Retail Banking,Toronto,25,64.6,131100.0,11,3
+CNF0232,Female,Senior Analyst,Pension Administration,Toronto,3,72.8,73000.0,0,2
+CNF0233,Male,Senior Analyst,Wealth Management,Calgary,8,69.7,112900.0,4,2
+CNF0234,Female,Senior Analyst,Retail Banking,Toronto,2,56.3,72600.0,1,2
+CNF0235,Male,Analyst,Retail Banking,Toronto,7,69.4,77700.0,6,1
+CNF0236,Male,Manager,Pension Administration,Toronto,4,52.7,119000.0,1,3
+CNF0237,Male,Analyst,Wealth Management,Toronto,10,89.5,91400.0,9,1
+CNF0238,Female,Analyst,Pension Administration,Vancouver,2,51.0,62100.0,1,1
+CNF0239,Female,Manager,Retail Banking,Toronto,4,67.3,105800.0,3,3
+CNF0240,Male,Analyst,Retail Banking,Toronto,4,55.4,53100.0,3,1
+CNF0241,Female,VP,Wealth Management,Toronto,2,78.0,205600.0,1,5
+CNF0242,Female,VP,Retail Banking,Vancouver,0,65.4,171200.0,0,5
+CNF0243,Male,Director,Wealth Management,Toronto,0,62.7,150300.0,0,4
+CNF0244,Male,Senior Analyst,Wealth Management,Toronto,0,81.9,99700.0,0,2
+CNF0245,Male,Analyst,Pension Administration,Calgary,10,70.4,80600.0,8,1
+CNF0246,Female,Director,Retail Banking,Calgary,1,77.2,135700.0,0,4
+CNF0247,Male,Senior Analyst,Pension Administration,Toronto,1,56.3,90500.0,0,2
+CNF0248,Female,VP,Retail Banking,Toronto,6,50.3,172300.0,3,5
+CNF0249,Male,VP,Retail Banking,Toronto,1,71.5,188100.0,0,5
+CNF0250,Female,Director,Wealth Management,Toronto,3,65.5,149700.0,1,4
+CNF0251,Male,Analyst,Pension Administration,Toronto,0,78.8,84500.0,0,1
+CNF0252,Female,Senior Analyst,Pension Administration,Toronto,16,68.9,100000.0,8,2
+CNF0253,Female,Director,Pension Administration,Toronto,9,72.9,157800.0,5,4
+CNF0254,Female,Senior Analyst,Wealth Management,Toronto,9,47.3,94600.0,4,2
+CNF0255,Female,Analyst,Pension Administration,Calgary,2,96.4,70100.0,1,1
+CNF0256,Male,Senior Analyst,Retail Banking,Vancouver,7,67.7,89500.0,2,2
+CNF0257,Female,VP,Wealth Management,Calgary,0,79.8,191900.0,0,5
+CNF0258,Male,Manager,Pension Administration,Toronto,0,58.3,114500.0,0,3
+CNF0259,Male,Senior Analyst,Wealth Management,Toronto,0,74.3,107800.0,0,2
+CNF0260,Female,Analyst,Wealth Management,Vancouver,4,51.8,70900.0,3,1
+CNF0261,Male,Manager,Wealth Management,Toronto,3,76.3,136800.0,3,3
+CNF0262,Male,VP,Wealth Management,Toronto,3,65.0,199900.0,1,5
+CNF0263,Female,Analyst,Retail Banking,Toronto,0,70.4,56200.0,0,1
+CNF0264,Male,Senior Analyst,Wealth Management,Calgary,2,79.8,97400.0,1,2
+CNF0265,Female,Director,Retail Banking,Calgary,6,52.7,135100.0,5,4
+CNF0266,Male,Manager,Retail Banking,Toronto,2,60.4,107800.0,1,3
+CNF0267,Male,Manager,Pension Administration,Toronto,6,76.4,129400.0,4,3
+CNF0268,Male,Manager,Retail Banking,Vancouver,1,99.4,114700.0,0,3
+CNF0269,Female,Senior Analyst,Pension Administration,Toronto,8,68.1,92900.0,3,2
+CNF0270,Female,Analyst,Retail Banking,Calgary,4,78.3,68100.0,3,1
+CNF0271,Female,Director,Wealth Management,Calgary,1,68.5,133600.0,0,4
+CNF0272,Female,Director,Retail Banking,Calgary,1,97.2,155700.0,0,4
+CNF0273,Male,Director,Retail Banking,Toronto,4,45.5,140300.0,3,4
+CNF0274,Male,Director,Retail Banking,Toronto,8,71.3,143100.0,6,4
+CNF0275,Female,Senior Analyst,Retail Banking,Toronto,2,47.2,74800.0,0,2
+CNF0276,Male,Senior Analyst,Pension Administration,Vancouver,1,34.9,77900.0,0,2
+CNF0277,Male,Manager,Pension Administration,Vancouver,10,74.2,125800.0,6,3
+CNF0278,Male,Manager,Wealth Management,Toronto,5,72.0,136300.0,1,3
+CNF0279,Female,Manager,Pension Administration,Toronto,2,66.0,114900.0,1,3
+CNF0280,Female,Manager,Wealth Management,Vancouver,3,68.5,120200.0,1,3
+CNF0281,Male,Director,Pension Administration,Calgary,1,100.0,162200.0,0,4
+CNF0282,Male,Senior Analyst,Retail Banking,Vancouver,4,66.4,86700.0,2,2
+CNF0283,Female,Senior Analyst,Wealth Management,Toronto,2,77.1,107900.0,0,2
+CNF0284,Female,Analyst,Retail Banking,Toronto,25,60.9,72400.0,23,1
+CNF0285,Male,Senior Analyst,Pension Administration,Calgary,3,74.1,93800.0,2,2
+CNF0286,Female,Analyst,Retail Banking,Calgary,3,66.7,59200.0,2,1
+CNF0287,Male,Senior Analyst,Retail Banking,Toronto,4,64.3,93500.0,1,2
+CNF0288,Male,Senior Analyst,Wealth Management,Toronto,12,95.5,115600.0,4,2
+CNF0289,Female,Analyst,Wealth Management,Toronto,8,86.5,76600.0,4,1
+CNF0290,Female,Manager,Retail Banking,Toronto,2,71.9,108400.0,1,3
+CNF0291,Male,Analyst,Pension Administration,Toronto,6,37.7,68100.0,3,1
+CNF0292,Female,Analyst,Wealth Management,Vancouver,4,64.9,82300.0,3,1
+CNF0293,Female,Director,Wealth Management,Toronto,3,100.0,154900.0,2,4
+CNF0294,Female,Senior Analyst,Pension Administration,Calgary,1,66.8,88300.0,0,2
+CNF0295,Female,Analyst,Wealth Management,Toronto,3,85.4,95600.0,2,1
+CNF0296,Female,Senior Analyst,Pension Administration,Calgary,1,90.2,87300.0,0,2
+CNF0297,Male,Manager,Pension Administration,Vancouver,12,73.1,120100.0,10,3
+CNF0298,Male,Analyst,Pension Administration,Toronto,2,58.2,66700.0,1,1
+CNF0299,Male,Manager,Retail Banking,Toronto,15,35.9,114800.0,13,3
+CNF0300,Male,Analyst,Wealth Management,Toronto,3,79.6,89200.0,1,1
+CNF0301,Female,Analyst,Retail Banking,Toronto,4,58.6,56600.0,1,1
+CNF0302,Male,Senior Analyst,Wealth Management,Calgary,3,72.5,109700.0,2,2
+CNF0303,Male,Senior Analyst,Pension Administration,Vancouver,0,52.5,75200.0,0,2
+CNF0304,Male,Manager,Wealth Management,Toronto,2,66.3,114600.0,1,3
+CNF0305,Male,Manager,Wealth Management,Toronto,0,70.5,129800.0,0,3
+CNF0306,Male,VP,Pension Administration,Toronto,4,73.8,188300.0,1,5
+CNF0307,Female,Senior Analyst,Wealth Management,Calgary,2,54.4,85100.0,1,2
+CNF0308,Male,Senior Analyst,Pension Administration,Toronto,7,86.8,123400.0,3,2
+CNF0309,Female,Manager,Wealth Management,Toronto,1,61.6,115500.0,0,3
+CNF0310,Female,Analyst,Wealth Management,Calgary,0,46.6,53600.0,0,1
+CNF0311,Male,Senior Analyst,Pension Administration,Calgary,2,68.5,89400.0,1,2
+CNF0312,Male,Analyst,Pension Administration,Toronto,13,70.5,84600.0,9,1
+CNF0313,Male,Analyst,Retail Banking,Calgary,6,72.2,71500.0,4,1
+CNF0314,Female,VP,Wealth Management,Toronto,2,89.1,206500.0,0,5
+CNF0315,Female,Director,Pension Administration,Toronto,3,66.7,136600.0,2,4
+CNF0316,Male,Manager,Retail Banking,Vancouver,0,68.3,117500.0,0,3
+CNF0317,Female,Senior Analyst,Pension Administration,Calgary,20,54.6,97900.0,19,2
+CNF0318,Female,Analyst,Wealth Management,Toronto,5,81.5,86600.0,2,1
+CNF0319,Male,Analyst,Retail Banking,Toronto,1,72.6,64100.0,0,1
+CNF0320,Male,Analyst,Pension Administration,Toronto,4,64.1,81300.0,2,1
+CNF0321,Female,Senior Analyst,Pension Administration,Toronto,0,43.3,72600.0,0,2
+CNF0322,Female,Manager,Pension Administration,Toronto,16,90.2,134800.0,15,3
+CNF0323,Female,Manager,Pension Administration,Toronto,0,52.8,96900.0,0,3
+CNF0324,Female,Analyst,Pension Administration,Toronto,5,61.7,61300.0,4,1
+CNF0325,Female,VP,Wealth Management,Calgary,1,75.0,197400.0,0,5
+CNF0326,Male,Manager,Pension Administration,Calgary,6,53.2,111200.0,3,3
+CNF0327,Female,Senior Analyst,Wealth Management,Calgary,7,49.1,84800.0,2,2
+CNF0328,Female,Manager,Retail Banking,Toronto,5,40.3,95900.0,3,3
+CNF0329,Female,Senior Analyst,Retail Banking,Vancouver,4,80.1,89800.0,2,2
+CNF0330,Male,Analyst,Wealth Management,Calgary,11,62.4,81300.0,5,1
+CNF0331,Male,Senior Analyst,Pension Administration,Calgary,0,100.0,96800.0,0,2
+CNF0332,Male,Manager,Wealth Management,Calgary,2,56.1,118500.0,1,3
+CNF0333,Male,Analyst,Wealth Management,Vancouver,1,57.1,62000.0,0,1
+CNF0334,Male,Analyst,Wealth Management,Toronto,22,62.1,89600.0,15,1
+CNF0335,Female,Analyst,Pension Administration,Toronto,2,73.4,70000.0,0,1
+CNF0336,Female,Analyst,Retail Banking,Calgary,6,63.4,56500.0,5,1
+CNF0337,Male,Director,Wealth Management,Calgary,5,78.6,171000.0,2,4
+CNF0338,Female,Manager,Pension Administration,Calgary,1,56.3,108500.0,0,3
+CNF0339,Male,Senior Analyst,Wealth Management,Toronto,1,50.7,97600.0,0,2
+CNF0340,Male,Analyst,Wealth Management,Toronto,1,44.8,82100.0,0,1
+CNF0341,Male,Senior Analyst,Retail Banking,Toronto,2,38.9,76900.0,1,2
+CNF0342,Male,Senior Analyst,Wealth Management,Vancouver,1,62.7,99300.0,0,2
+CNF0343,Male,Analyst,Retail Banking,Toronto,0,65.8,60000.0,0,1
+CNF0344,Male,Senior Analyst,Pension Administration,Toronto,10,61.2,113400.0,5,2
+CNF0345,Male,Senior Analyst,Wealth Management,Toronto,16,87.4,133600.0,14,2
+CNF0346,Female,Manager,Wealth Management,Toronto,2,87.2,125900.0,0,3
+CNF0347,Male,Manager,Pension Administration,Vancouver,2,65.3,117000.0,1,3
+CNF0348,Female,Analyst,Pension Administration,Calgary,0,44.9,59900.0,0,1
+CNF0349,Female,Senior Analyst,Retail Banking,Calgary,5,62.1,78500.0,4,2
+CNF0350,Female,Manager,Pension Administration,Toronto,8,61.6,111400.0,4,3
+CNF0351,Female,Senior Analyst,Wealth Management,Calgary,0,60.8,90500.0,0,2
+CNF0352,Male,Director,Pension Administration,Toronto,0,60.2,147000.0,0,4
+CNF0353,Male,Manager,Pension Administration,Calgary,7,60.9,118700.0,2,3
+CNF0354,Female,Analyst,Pension Administration,Toronto,4,64.6,62200.0,1,1
+CNF0355,Male,Analyst,Retail Banking,Toronto,0,61.1,51600.0,0,1
+CNF0356,Female,Manager,Retail Banking,Calgary,4,72.9,108500.0,2,3
+CNF0357,Female,Analyst,Retail Banking,Vancouver,1,75.0,65700.0,0,1
+CNF0358,Female,Manager,Wealth Management,Toronto,2,57.3,114000.0,1,3
+CNF0359,Female,VP,Pension Administration,Calgary,7,87.8,205100.0,6,5
+CNF0360,Female,Senior Analyst,Wealth Management,Toronto,8,56.3,92300.0,6,2
+CNF0361,Female,Senior Analyst,Wealth Management,Toronto,2,47.4,80600.0,1,2
+CNF0362,Male,Manager,Retail Banking,Toronto,14,75.3,127100.0,8,3
+CNF0363,Female,Senior Analyst,Pension Administration,Toronto,2,58.6,82300.0,1,2
+CNF0364,Male,Senior Analyst,Wealth Management,Toronto,7,74.5,113000.0,4,2
+CNF0365,Male,VP,Pension Administration,Toronto,3,36.3,183000.0,2,5
+CNF0366,Female,Senior Analyst,Pension Administration,Toronto,11,89.5,111300.0,5,2
+CNF0367,Male,VP,Wealth Management,Vancouver,11,79.4,228900.0,3,5
+CNF0368,Male,Director,Wealth Management,Toronto,0,49.0,150400.0,0,4
+CNF0369,Male,Analyst,Wealth Management,Calgary,13,49.3,90000.0,5,1
+CNF0370,Female,Analyst,Wealth Management,Toronto,8,93.4,83100.0,7,1
+CNF0371,Male,Analyst,Wealth Management,Calgary,7,59.7,86600.0,6,1
+CNF0372,Female,Analyst,Retail Banking,Toronto,1,58.3,62700.0,0,1
+CNF0373,Male,Analyst,Retail Banking,Toronto,8,38.3,68900.0,3,1
+CNF0374,Female,Manager,Retail Banking,Toronto,9,65.1,112500.0,5,3
+CNF0375,Female,Analyst,Retail Banking,Toronto,1,66.8,45000.0,0,1
+CNF0376,Male,Senior Analyst,Pension Administration,Toronto,15,80.0,106300.0,7,2
+CNF0377,Male,Director,Wealth Management,Calgary,0,50.4,144400.0,0,4
+CNF0378,Male,Analyst,Wealth Management,Vancouver,0,48.7,62700.0,0,1
+CNF0379,Female,Director,Pension Administration,Calgary,3,76.3,143900.0,1,4
+CNF0380,Female,Analyst,Retail Banking,Calgary,4,84.1,63500.0,1,1
+CNF0381,Female,Analyst,Pension Administration,Toronto,5,48.0,57500.0,4,1
+CNF0382,Male,Manager,Retail Banking,Toronto,0,85.1,108900.0,0,3
+CNF0383,Female,Manager,Wealth Management,Toronto,16,70.5,130000.0,14,3
+CNF0384,Female,Director,Wealth Management,Toronto,0,85.3,159600.0,0,4
+CNF0385,Female,Manager,Wealth Management,Toronto,0,69.0,112200.0,0,3
+CNF0386,Female,Director,Retail Banking,Toronto,0,34.7,119100.0,0,4
+CNF0387,Male,Analyst,Wealth Management,Toronto,4,67.9,80100.0,3,1
+CNF0388,Male,Analyst,Wealth Management,Toronto,13,84.8,99900.0,7,1
+CNF0389,Female,Manager,Pension Administration,Calgary,5,57.5,110500.0,2,3
+CNF0390,Female,Director,Wealth Management,Calgary,8,64.6,134100.0,6,4
+CNF0391,Female,VP,Pension Administration,Toronto,0,67.5,189800.0,0,5
+CNF0392,Male,Senior Analyst,Wealth Management,Vancouver,3,29.4,94900.0,1,2
+CNF0393,Male,Senior Analyst,Wealth Management,Vancouver,3,93.4,102400.0,2,2
+CNF0394,Male,Manager,Wealth Management,Toronto,3,57.4,117200.0,1,3
+CNF0395,Male,Senior Analyst,Pension Administration,Toronto,0,77.1,89800.0,0,2
+CNF0396,Female,VP,Pension Administration,Toronto,5,68.8,186200.0,1,5
+CNF0397,Female,Director,Wealth Management,Vancouver,3,87.6,157500.0,2,4
+CNF0398,Male,Senior Analyst,Pension Administration,Vancouver,7,75.7,87100.0,5,2
+CNF0399,Male,Manager,Pension Administration,Toronto,3,66.7,111600.0,1,3
+CNF0400,Male,Manager,Pension Administration,Toronto,0,57.5,119900.0,0,3
+CNF0401,Male,Analyst,Retail Banking,Toronto,5,81.2,70000.0,2,1
+CNF0402,Female,Director,Wealth Management,Toronto,0,43.8,145800.0,0,4
+CNF0403,Female,Senior Analyst,Wealth Management,Toronto,10,79.0,108600.0,3,2
+CNF0404,Male,Director,Pension Administration,Vancouver,4,54.6,137400.0,3,4
+CNF0405,Female,Senior Analyst,Pension Administration,Calgary,0,87.5,90400.0,0,2
+CNF0406,Female,Director,Retail Banking,Calgary,16,72.3,149200.0,16,4
+CNF0407,Female,Senior Analyst,Wealth Management,Vancouver,3,79.0,94400.0,1,2
+CNF0408,Male,Analyst,Pension Administration,Calgary,0,71.1,68900.0,0,1
+CNF0409,Female,Director,Pension Administration,Toronto,4,45.5,139400.0,1,4
+CNF0410,Male,Analyst,Pension Administration,Calgary,1,57.9,69000.0,0,1
+CNF0411,Male,Senior Analyst,Wealth Management,Toronto,8,79.4,118200.0,7,2
+CNF0412,Male,VP,Retail Banking,Calgary,8,72.3,200000.0,7,5
+CNF0413,Male,VP,Pension Administration,Toronto,19,86.5,213000.0,11,5
+CNF0414,Male,Senior Analyst,Pension Administration,Calgary,3,75.6,90600.0,2,2
+CNF0415,Male,Manager,Pension Administration,Toronto,3,56.5,132400.0,2,3
+CNF0416,Male,Senior Analyst,Retail Banking,Toronto,7,58.9,94200.0,6,2
+CNF0417,Female,Analyst,Pension Administration,Toronto,0,71.4,78200.0,0,1
+CNF0418,Female,Senior Analyst,Retail Banking,Toronto,3,37.6,80000.0,2,2
+CNF0419,Male,Manager,Wealth Management,Calgary,3,93.4,134100.0,1,3
+CNF0420,Female,Manager,Wealth Management,Calgary,0,76.2,117500.0,0,3
+CNF0421,Female,Manager,Pension Administration,Toronto,2,87.2,117600.0,1,3
+CNF0422,Female,Manager,Pension Administration,Toronto,9,47.9,101100.0,3,3
+CNF0423,Male,Analyst,Wealth Management,Toronto,9,87.4,95000.0,3,1
+CNF0424,Female,Senior Analyst,Retail Banking,Toronto,0,100.0,96300.0,0,2
+CNF0425,Female,Analyst,Wealth Management,Toronto,0,51.5,61400.0,0,1
+CNF0426,Female,Senior Analyst,Wealth Management,Vancouver,1,80.8,97800.0,0,2
+CNF0427,Male,Senior Analyst,Pension Administration,Toronto,10,70.0,106900.0,5,2
+CNF0428,Male,Director,Retail Banking,Toronto,0,48.4,132000.0,0,4
+CNF0429,Female,Senior Analyst,Retail Banking,Toronto,6,76.9,85900.0,2,2
+CNF0430,Male,Analyst,Pension Administration,Toronto,0,81.7,68000.0,0,1
+CNF0431,Male,Analyst,Retail Banking,Toronto,4,61.6,62700.0,3,1
+CNF0432,Male,Manager,Wealth Management,Calgary,2,86.3,121300.0,1,3
+CNF0433,Female,Manager,Wealth Management,Toronto,7,46.7,111700.0,6,3
+CNF0434,Female,Analyst,Wealth Management,Toronto,1,49.1,74700.0,0,1
+CNF0435,Male,Analyst,Retail Banking,Toronto,5,71.9,66900.0,3,1
+CNF0436,Female,Manager,Wealth Management,Toronto,1,70.4,119400.0,0,3
+CNF0437,Male,Analyst,Pension Administration,Toronto,6,60.0,71200.0,4,1
+CNF0438,Female,Director,Pension Administration,Vancouver,10,81.3,160300.0,7,4
+CNF0439,Female,Manager,Retail Banking,Calgary,0,77.4,111000.0,0,3
+CNF0440,Female,Analyst,Pension Administration,Toronto,10,82.0,84700.0,5,1
+CNF0441,Female,Analyst,Wealth Management,Toronto,4,68.3,78300.0,2,1
+CNF0442,Male,VP,Wealth Management,Toronto,0,78.4,204600.0,0,5
+CNF0443,Female,Senior Analyst,Wealth Management,Toronto,2,63.8,85500.0,0,2
+CNF0444,Male,Senior Analyst,Wealth Management,Calgary,0,98.8,116700.0,0,2
+CNF0445,Female,Director,Retail Banking,Calgary,6,58.6,130700.0,5,4
+CNF0446,Female,VP,Pension Administration,Toronto,7,99.5,207600.0,5,5
+CNF0447,Female,VP,Pension Administration,Toronto,0,70.5,191000.0,0,5
+CNF0448,Male,Manager,Pension Administration,Toronto,3,50.7,109400.0,2,3
+CNF0449,Female,Senior Analyst,Retail Banking,Vancouver,8,89.2,99200.0,7,2
+CNF0450,Male,Analyst,Wealth Management,Calgary,13,71.8,94900.0,8,1
+CNF0451,Male,Manager,Pension Administration,Toronto,3,81.9,134000.0,2,3
+CNF0452,Female,Senior Analyst,Retail Banking,Toronto,15,87.1,98300.0,8,2
+CNF0453,Male,Senior Analyst,Retail Banking,Calgary,3,74.7,80400.0,2,2
+CNF0454,Female,Director,Retail Banking,Toronto,2,61.7,131900.0,1,4
+CNF0455,Male,Analyst,Retail Banking,Toronto,9,83.7,81800.0,4,1
+CNF0456,Male,Senior Analyst,Pension Administration,Toronto,3,70.0,94800.0,2,2
+CNF0457,Female,Analyst,Retail Banking,Calgary,3,79.6,61000.0,2,1
+CNF0458,Female,Senior Analyst,Wealth Management,Toronto,3,39.8,74000.0,1,2
+CNF0459,Male,Analyst,Retail Banking,Toronto,9,76.3,80800.0,6,1
+CNF0460,Female,Analyst,Wealth Management,Vancouver,8,61.1,88000.0,4,1
+CNF0461,Male,Analyst,Retail Banking,Toronto,2,93.1,79200.0,0,1
+CNF0462,Female,Manager,Wealth Management,Toronto,2,78.7,126500.0,1,3
+CNF0463,Male,Manager,Pension Administration,Toronto,3,73.4,124100.0,2,3
+CNF0464,Female,Manager,Wealth Management,Toronto,4,76.8,126900.0,3,3
+CNF0465,Female,VP,Retail Banking,Calgary,1,56.0,179200.0,0,5
+CNF0466,Female,Senior Analyst,Retail Banking,Toronto,7,92.7,97600.0,3,2
+CNF0467,Male,Analyst,Pension Administration,Toronto,3,97.9,82400.0,2,1
+CNF0468,Female,Director,Pension Administration,Toronto,2,75.5,139900.0,1,4
+CNF0469,Female,Analyst,Pension Administration,Calgary,0,92.3,66800.0,0,1
+CNF0470,Female,VP,Wealth Management,Calgary,1,62.0,190600.0,0,5
+CNF0471,Male,Analyst,Retail Banking,Toronto,14,58.8,74900.0,12,1
+CNF0472,Female,VP,Pension Administration,Toronto,1,70.6,188600.0,0,5
+CNF0473,Female,Analyst,Wealth Management,Calgary,0,76.1,73300.0,0,1
+CNF0474,Male,Director,Retail Banking,Toronto,3,64.5,152600.0,2,4
+CNF0475,Male,Senior Analyst,Wealth Management,Calgary,1,77.5,107300.0,0,2
+CNF0476,Female,VP,Wealth Management,Calgary,0,74.3,191500.0,0,5
+CNF0477,Male,Analyst,Wealth Management,Calgary,1,56.0,64300.0,0,1
+CNF0478,Female,Senior Analyst,Wealth Management,Toronto,3,77.3,96500.0,1,2
+CNF0479,Female,VP,Pension Administration,Toronto,4,82.1,194600.0,3,5
+CNF0480,Female,Senior Analyst,Wealth Management,Calgary,2,72.4,81600.0,1,2
+CNF0481,Male,Manager,Wealth Management,Toronto,2,86.1,140300.0,1,3
+CNF0482,Male,Manager,Retail Banking,Toronto,16,53.0,122500.0,11,3
+CNF0483,Female,Senior Analyst,Wealth Management,Vancouver,2,76.6,97400.0,0,2
+CNF0484,Male,Manager,Retail Banking,Vancouver,1,53.6,112500.0,0,3
+CNF0485,Female,Manager,Pension Administration,Toronto,1,54.4,101300.0,0,3
+CNF0486,Male,Director,Wealth Management,Toronto,3,61.2,162800.0,0,4
+CNF0487,Male,Analyst,Pension Administration,Toronto,7,56.8,73500.0,3,1
+CNF0488,Male,Analyst,Pension Administration,Calgary,1,62.3,65200.0,0,1
+CNF0489,Female,VP,Wealth Management,Vancouver,6,67.0,192600.0,3,5
+CNF0490,Female,Director,Retail Banking,Toronto,0,81.7,148600.0,0,4
+CNF0491,Male,Senior Analyst,Pension Administration,Toronto,2,65.5,89500.0,1,2
+CNF0492,Male,Manager,Wealth Management,Vancouver,7,47.8,126200.0,6,3
+CNF0493,Male,Analyst,Retail Banking,Toronto,2,86.0,62600.0,1,1
+CNF0494,Female,Analyst,Pension Administration,Toronto,4,58.3,72100.0,1,1
+CNF0495,Male,Senior Analyst,Wealth Management,Vancouver,1,69.2,104000.0,0,2
+CNF0496,Female,Senior Analyst,Wealth Management,Toronto,6,76.3,102000.0,5,2
+CNF0497,Male,Manager,Wealth Management,Calgary,0,72.8,119600.0,0,3
+CNF0498,Male,Analyst,Pension Administration,Toronto,9,85.3,88600.0,7,1
+CNF0499,Male,VP,Wealth Management,Toronto,1,76.7,221100.0,0,5
+CNF0500,Female,VP,Retail Banking,Calgary,10,57.9,173500.0,8,5
+CNF0501,Male,Manager,Wealth Management,Toronto,2,100.0,141500.0,1,3
+CNF0502,Male,Senior Analyst,Pension Administration,Vancouver,6,72.7,91200.0,4,2
+CNF0503,Female,Senior Analyst,Retail Banking,Toronto,1,67.9,79600.0,0,2
+CNF0504,Female,Director,Pension Administration,Toronto,11,83.5,155500.0,6,4
+CNF0505,Male,Manager,Wealth Management,Toronto,0,73.5,121700.0,0,3
+CNF0506,Male,Analyst,Pension Administration,Toronto,0,75.6,71900.0,0,1
+CNF0507,Female,Director,Retail Banking,Toronto,3,100.0,142700.0,0,4
+CNF0508,Male,Director,Wealth Management,Toronto,0,66.1,162800.0,0,4
+CNF0509,Female,VP,Pension Administration,Toronto,1,65.6,174200.0,0,5
+CNF0510,Female,Manager,Pension Administration,Toronto,14,71.6,128000.0,12,3
+CNF0511,Male,Manager,Pension Administration,Calgary,18,85.0,134800.0,17,3
+CNF0512,Male,Senior Analyst,Retail Banking,Calgary,2,48.9,70900.0,1,2
+CNF0513,Male,VP,Retail Banking,Calgary,12,42.5,192300.0,8,5
+CNF0514,Female,Director,Wealth Management,Toronto,3,61.8,139800.0,2,4
+CNF0515,Male,Analyst,Wealth Management,Toronto,1,47.1,72200.0,0,1
+CNF0516,Male,Analyst,Wealth Management,Calgary,6,64.1,72100.0,4,1
+CNF0517,Female,Senior Analyst,Retail Banking,Toronto,5,77.0,90400.0,4,2
+CNF0518,Female,Director,Wealth Management,Toronto,22,57.5,160800.0,8,4
+CNF0519,Male,VP,Wealth Management,Calgary,1,50.0,192300.0,0,5
+CNF0520,Female,Analyst,Wealth Management,Calgary,5,71.0,77300.0,4,1
+CNF0521,Male,Manager,Wealth Management,Toronto,0,82.1,122600.0,0,3
+CNF0522,Male,Senior Analyst,Pension Administration,Toronto,0,46.3,81400.0,0,2
+CNF0523,Male,VP,Wealth Management,Calgary,0,81.5,194900.0,0,5
+CNF0524,Male,Director,Wealth Management,Toronto,25,81.4,191800.0,13,4
+CNF0525,Male,Director,Retail Banking,Calgary,8,83.4,167100.0,5,4
+CNF0526,Male,Senior Analyst,Pension Administration,Calgary,7,87.1,118500.0,4,2
+CNF0527,Female,Senior Analyst,Wealth Management,Calgary,3,100.0,104000.0,1,2
+CNF0528,Female,Analyst,Wealth Management,Toronto,1,65.0,76500.0,0,1
+CNF0529,Female,Analyst,Wealth Management,Toronto,0,71.5,61300.0,0,1
+CNF0530,Male,Director,Pension Administration,Calgary,1,64.2,156000.0,0,4
+CNF0531,Male,Director,Wealth Management,Calgary,2,70.0,163000.0,1,4
+CNF0532,Male,VP,Wealth Management,Calgary,7,91.5,213400.0,4,5
+CNF0533,Female,VP,Wealth Management,Toronto,3,51.2,197800.0,1,5
+CNF0534,Female,Senior Analyst,Wealth Management,Toronto,0,57.9,85700.0,0,2
+CNF0535,Male,Manager,Wealth Management,Vancouver,0,89.3,125000.0,0,3
+CNF0536,Male,VP,Retail Banking,Calgary,0,84.3,194900.0,0,5
+CNF0537,Male,Director,Pension Administration,Vancouver,2,64.9,143100.0,2,4
+CNF0538,Male,Analyst,Retail Banking,Calgary,13,82.0,87100.0,6,1
+CNF0539,Male,Senior Analyst,Wealth Management,Toronto,5,74.8,100000.0,2,2
+CNF0540,Female,Analyst,Pension Administration,Calgary,8,91.0,71300.0,5,1
+CNF0541,Female,VP,Pension Administration,Vancouver,3,71.0,181900.0,2,5
+CNF0542,Male,Manager,Pension Administration,Toronto,2,84.4,127900.0,1,3
+CNF0543,Male,Analyst,Retail Banking,Calgary,0,100.0,68800.0,0,1
+CNF0544,Female,Manager,Wealth Management,Toronto,10,78.4,123100.0,6,3
+CNF0545,Male,Manager,Retail Banking,Toronto,7,70.7,115400.0,4,3
+CNF0546,Male,Senior Analyst,Wealth Management,Calgary,0,80.1,98300.0,0,2
+CNF0547,Male,Analyst,Wealth Management,Toronto,3,64.9,73600.0,2,1
+CNF0548,Male,Manager,Pension Administration,Toronto,3,100.0,123100.0,2,3
+CNF0549,Male,Senior Analyst,Pension Administration,Toronto,4,72.5,109100.0,1,2
+CNF0550,Female,Manager,Wealth Management,Toronto,14,66.2,125700.0,7,3
+CNF0551,Male,Senior Analyst,Pension Administration,Toronto,4,58.3,89600.0,2,2
+CNF0552,Male,Director,Pension Administration,Toronto,3,85.4,157700.0,1,4
+CNF0553,Female,Senior Analyst,Wealth Management,Vancouver,0,82.1,91200.0,0,2
+CNF0554,Male,Senior Analyst,Wealth Management,Toronto,0,63.0,99300.0,0,2
+CNF0555,Female,Director,Retail Banking,Toronto,1,78.1,145000.0,0,4
+CNF0556,Female,Senior Analyst,Retail Banking,Toronto,0,48.9,69300.0,0,2
+CNF0557,Male,Analyst,Wealth Management,Calgary,6,72.6,76200.0,2,1
+CNF0558,Female,Analyst,Wealth Management,Toronto,6,76.3,89100.0,5,1
+CNF0559,Male,Manager,Wealth Management,Calgary,0,93.9,127800.0,0,3
+CNF0560,Female,Manager,Retail Banking,Calgary,9,59.2,117900.0,5,3
+CNF0561,Male,Manager,Pension Administration,Calgary,0,52.1,92300.0,0,3
+CNF0562,Female,Analyst,Wealth Management,Toronto,1,57.5,70300.0,0,1
+CNF0563,Female,Analyst,Retail Banking,Calgary,1,51.3,62500.0,0,1
+CNF0564,Male,Analyst,Wealth Management,Toronto,2,88.7,85700.0,1,1
+CNF0565,Female,Senior Analyst,Wealth Management,Vancouver,1,91.7,97700.0,0,2
+CNF0566,Female,Manager,Wealth Management,Calgary,3,74.5,121300.0,2,3
+CNF0567,Female,Senior Analyst,Pension Administration,Toronto,2,87.1,89400.0,1,2
+CNF0568,Male,Senior Analyst,Wealth Management,Toronto,21,71.9,119100.0,9,2
+CNF0569,Female,Director,Pension Administration,Toronto,0,68.7,137000.0,0,4
+CNF0570,Male,Senior Analyst,Pension Administration,Calgary,0,65.3,81600.0,0,2
+CNF0571,Male,Senior Analyst,Pension Administration,Toronto,0,65.7,95900.0,0,2
+CNF0572,Male,Manager,Retail Banking,Toronto,4,48.3,110800.0,3,3
+CNF0573,Male,Senior Analyst,Pension Administration,Toronto,0,73.7,92800.0,0,2
+CNF0574,Female,Manager,Wealth Management,Calgary,9,69.4,128900.0,6,3
+CNF0575,Male,Director,Pension Administration,Calgary,3,80.4,153500.0,2,4
+CNF0576,Female,VP,Retail Banking,Calgary,3,71.3,176800.0,1,5
+CNF0577,Male,Analyst,Pension Administration,Calgary,4,67.7,68200.0,3,1
+CNF0578,Male,Director,Wealth Management,Toronto,0,57.8,153700.0,0,4
+CNF0579,Male,Senior Analyst,Retail Banking,Toronto,1,71.0,81000.0,0,2
+CNF0580,Male,Analyst,Retail Banking,Calgary,1,80.3,64600.0,0,1
+CNF0581,Male,Senior Analyst,Pension Administration,Toronto,4,54.0,86900.0,1,2
+CNF0582,Male,VP,Retail Banking,Toronto,1,71.2,205200.0,0,5
+CNF0583,Female,Senior Analyst,Wealth Management,Toronto,0,73.3,76000.0,0,2
+CNF0584,Male,Senior Analyst,Wealth Management,Toronto,17,59.9,111900.0,9,2
+CNF0585,Male,Manager,Pension Administration,Toronto,0,61.8,122500.0,0,3
+CNF0586,Male,Analyst,Pension Administration,Vancouver,8,73.2,79600.0,7,1
+CNF0587,Female,Analyst,Wealth Management,Toronto,7,54.1,79200.0,5,1
+CNF0588,Female,Analyst,Wealth Management,Toronto,1,74.9,75800.0,0,1
+CNF0589,Male,Analyst,Wealth Management,Toronto,0,57.5,69600.0,0,1
+CNF0590,Male,Analyst,Wealth Management,Calgary,0,84.9,66800.0,0,1
+CNF0591,Male,Analyst,Retail Banking,Toronto,5,100.0,83400.0,3,1
+CNF0592,Female,Manager,Pension Administration,Vancouver,5,57.9,104300.0,2,3
+CNF0593,Male,Analyst,Wealth Management,Vancouver,7,77.5,82600.0,3,1
+CNF0594,Male,Senior Analyst,Pension Administration,Toronto,13,59.8,98200.0,12,2
+CNF0595,Male,Director,Retail Banking,Vancouver,5,84.6,165300.0,3,4
+CNF0596,Male,Senior Analyst,Wealth Management,Vancouver,0,52.3,104200.0,0,2
+CNF0597,Male,Manager,Retail Banking,Calgary,1,76.7,112600.0,0,3
+CNF0598,Female,Analyst,Pension Administration,Calgary,9,57.8,64200.0,8,1
+CNF0599,Male,Analyst,Pension Administration,Toronto,1,67.1,63900.0,0,1
+CNF0600,Female,Analyst,Pension Administration,Toronto,0,55.6,61300.0,0,1
+CNF0601,Male,Analyst,Pension Administration,Toronto,6,81.5,92500.0,1,1
+CNF0602,Male,Analyst,Pension Administration,Toronto,2,58.3,67700.0,1,1
+CNF0603,Female,Analyst,Retail Banking,Vancouver,12,77.7,58700.0,7,1
+CNF0604,Male,Analyst,Pension Administration,Toronto,5,65.2,79000.0,2,1
+CNF0605,Female,Analyst,Pension Administration,Calgary,0,68.4,65900.0,0,1
+CNF0606,Female,Senior Analyst,Retail Banking,Calgary,14,72.1,82400.0,12,2
+CNF0607,Male,Analyst,Wealth Management,Vancouver,1,59.3,75300.0,0,1
+CNF0608,Female,Senior Analyst,Retail Banking,Vancouver,2,72.9,83500.0,1,2
+CNF0609,Male,Senior Analyst,Pension Administration,Toronto,2,91.4,100300.0,1,2
+CNF0610,Female,Manager,Wealth Management,Toronto,0,59.1,107900.0,0,3
+CNF0611,Male,Analyst,Pension Administration,Toronto,3,86.4,86300.0,2,1
+CNF0612,Female,Manager,Pension Administration,Toronto,0,91.0,113400.0,0,3
+CNF0613,Male,Manager,Retail Banking,Toronto,2,58.6,100400.0,1,3
+CNF0614,Male,Analyst,Pension Administration,Toronto,2,49.6,53900.0,0,1
+CNF0615,Female,Director,Wealth Management,Calgary,7,74.2,162300.0,5,4
+CNF0616,Female,Director,Wealth Management,Toronto,8,62.3,158300.0,6,4
+CNF0617,Female,Analyst,Pension Administration,Toronto,0,96.2,73200.0,0,1
+CNF0618,Female,Analyst,Retail Banking,Calgary,2,70.5,56300.0,1,1
+CNF0619,Female,Director,Pension Administration,Toronto,2,58.8,135700.0,1,4
+CNF0620,Male,Manager,Wealth Management,Toronto,0,53.9,110900.0,0,3
+CNF0621,Male,Analyst,Retail Banking,Calgary,8,85.3,74600.0,4,1
+CNF0622,Male,Analyst,Wealth Management,Calgary,6,62.0,67200.0,4,1
+CNF0623,Male,Senior Analyst,Retail Banking,Calgary,1,70.6,79800.0,0,2
+CNF0624,Male,Senior Analyst,Pension Administration,Toronto,2,83.4,96100.0,0,2
+CNF0625,Female,Manager,Wealth Management,Calgary,0,63.2,114800.0,0,3
+CNF0626,Male,Senior Analyst,Pension Administration,Calgary,4,69.4,92200.0,1,2
+CNF0627,Female,Senior Analyst,Wealth Management,Toronto,0,69.8,96200.0,0,2
+CNF0628,Male,Manager,Retail Banking,Calgary,21,79.6,140800.0,16,3
+CNF0629,Male,Analyst,Pension Administration,Vancouver,7,78.3,86000.0,6,1
+CNF0630,Male,Analyst,Wealth Management,Toronto,2,66.9,83000.0,1,1
+CNF0631,Female,Manager,Pension Administration,Toronto,4,70.9,114500.0,3,3
+CNF0632,Female,Director,Wealth Management,Vancouver,12,64.8,151600.0,8,4
+CNF0633,Female,Senior Analyst,Wealth Management,Calgary,4,49.3,91300.0,2,2
+CNF0634,Male,Senior Analyst,Retail Banking,Toronto,0,73.6,96300.0,0,2
+CNF0635,Female,Analyst,Wealth Management,Calgary,2,96.5,83100.0,1,1
+CNF0636,Male,Senior Analyst,Pension Administration,Toronto,9,57.6,108000.0,2,2
+CNF0637,Male,Senior Analyst,Pension Administration,Toronto,5,59.2,83700.0,4,2
+CNF0638,Male,Analyst,Pension Administration,Toronto,5,57.8,65500.0,4,1
+CNF0639,Male,Analyst,Pension Administration,Vancouver,10,80.1,88500.0,8,1
+CNF0640,Male,Senior Analyst,Pension Administration,Vancouver,11,76.3,104600.0,7,2
+CNF0641,Female,Analyst,Retail Banking,Toronto,12,67.8,79400.0,9,1
+CNF0642,Female,Senior Analyst,Wealth Management,Toronto,0,57.1,86900.0,0,2
+CNF0643,Male,Analyst,Wealth Management,Toronto,3,71.3,77700.0,1,1
+CNF0644,Male,Senior Analyst,Pension Administration,Vancouver,6,48.1,86800.0,4,2
+CNF0645,Male,Analyst,Retail Banking,Vancouver,7,72.0,63300.0,3,1
+CNF0646,Male,Director,Wealth Management,Calgary,4,82.2,158100.0,3,4
+CNF0647,Female,Manager,Pension Administration,Calgary,0,52.5,105200.0,0,3
+CNF0648,Male,Manager,Wealth Management,Calgary,7,48.5,126500.0,2,3
+CNF0649,Female,Manager,Wealth Management,Toronto,6,92.1,134200.0,2,3
+CNF0650,Male,Senior Analyst,Pension Administration,Toronto,0,61.4,76700.0,0,2
+CNF0651,Female,Analyst,Wealth Management,Toronto,3,85.9,79400.0,1,1
+CNF0652,Male,Senior Analyst,Wealth Management,Calgary,0,67.8,86900.0,0,2
+CNF0653,Female,Manager,Pension Administration,Calgary,2,67.7,115100.0,1,3
+CNF0654,Male,Manager,Retail Banking,Toronto,0,76.1,108600.0,0,3
+CNF0655,Female,Senior Analyst,Retail Banking,Vancouver,2,57.6,68900.0,1,2
+CNF0656,Male,Analyst,Wealth Management,Toronto,3,71.9,83300.0,2,1
+CNF0657,Male,Analyst,Wealth Management,Toronto,4,64.7,77900.0,1,1
+CNF0658,Female,Senior Analyst,Wealth Management,Calgary,5,51.5,97600.0,2,2
+CNF0659,Female,Manager,Wealth Management,Calgary,9,74.7,121500.0,6,3
+CNF0660,Female,Senior Analyst,Wealth Management,Calgary,1,66.3,80800.0,0,2
+CNF0661,Female,Senior Analyst,Pension Administration,Toronto,0,67.8,69800.0,0,2
+CNF0662,Female,VP,Wealth Management,Toronto,9,53.1,197200.0,8,5
+CNF0663,Male,Manager,Retail Banking,Calgary,0,92.3,111400.0,0,3
+CNF0664,Male,Analyst,Wealth Management,Toronto,18,82.3,93200.0,8,1
+CNF0665,Male,Analyst,Pension Administration,Toronto,9,83.5,92700.0,2,1
+CNF0666,Female,Analyst,Retail Banking,Calgary,3,65.7,62500.0,1,1
+CNF0667,Male,Analyst,Pension Administration,Toronto,19,45.8,81800.0,7,1
+CNF0668,Male,Analyst,Pension Administration,Calgary,0,97.3,84700.0,0,1
+CNF0669,Female,Analyst,Pension Administration,Calgary,1,69.1,66200.0,0,1
+CNF0670,Female,Analyst,Pension Administration,Toronto,5,59.5,61600.0,1,1
+CNF0671,Male,Analyst,Retail Banking,Toronto,2,75.8,64100.0,1,1
+CNF0672,Male,Director,Wealth Management,Calgary,13,86.3,180300.0,6,4
+CNF0673,Male,Analyst,Pension Administration,Calgary,0,69.7,69300.0,0,1
+CNF0674,Male,Senior Analyst,Retail Banking,Calgary,3,87.9,93800.0,2,2
+CNF0675,Male,Senior Analyst,Retail Banking,Calgary,4,85.2,87800.0,2,2
+CNF0676,Female,VP,Retail Banking,Calgary,5,54.9,181500.0,3,5
+CNF0677,Female,Analyst,Pension Administration,Vancouver,1,60.6,55700.0,0,1
+CNF0678,Female,Senior Analyst,Wealth Management,Toronto,2,83.4,98900.0,1,2
+CNF0679,Male,VP,Retail Banking,Toronto,9,32.0,196200.0,7,5
+CNF0680,Female,Director,Retail Banking,Toronto,1,67.9,131800.0,0,4
+CNF0681,Male,Director,Pension Administration,Toronto,8,50.0,143400.0,4,4
+CNF0682,Male,Analyst,Pension Administration,Toronto,4,63.3,66900.0,2,1
+CNF0683,Female,Analyst,Wealth Management,Toronto,7,65.8,84800.0,5,1
+CNF0684,Male,Manager,Retail Banking,Vancouver,6,65.0,115500.0,5,3
+CNF0685,Male,Director,Wealth Management,Toronto,1,62.3,156500.0,0,4
+CNF0686,Female,Senior Analyst,Wealth Management,Toronto,4,54.6,88700.0,2,2
+CNF0687,Male,Senior Analyst,Pension Administration,Toronto,10,100.0,115200.0,8,2
+CNF0688,Female,Analyst,Wealth Management,Toronto,2,96.1,78800.0,1,1
+CNF0689,Male,Manager,Retail Banking,Toronto,16,53.7,123700.0,6,3
+CNF0690,Female,Analyst,Wealth Management,Toronto,3,92.1,79300.0,2,1
+CNF0691,Male,Senior Analyst,Retail Banking,Toronto,0,64.4,77700.0,0,2
+CNF0692,Male,Senior Analyst,Retail Banking,Calgary,2,71.8,82100.0,1,2
+CNF0693,Female,Senior Analyst,Pension Administration,Vancouver,15,69.1,95600.0,10,2
+CNF0694,Male,Analyst,Wealth Management,Vancouver,1,60.8,74500.0,0,1
+CNF0695,Male,Analyst,Pension Administration,Calgary,10,83.8,85000.0,6,1
+CNF0696,Male,Manager,Retail Banking,Toronto,10,71.8,100300.0,5,3
+CNF0697,Male,Analyst,Wealth Management,Vancouver,2,63.3,72100.0,0,1
+CNF0698,Male,Manager,Wealth Management,Vancouver,0,51.7,112200.0,0,3
+CNF0699,Male,Analyst,Retail Banking,Toronto,6,57.5,77400.0,2,1
+CNF0700,Female,Senior Analyst,Wealth Management,Calgary,1,47.0,76000.0,0,2
+CNF0701,Male,Senior Analyst,Retail Banking,Toronto,7,70.2,94800.0,3,2
+CNF0702,Male,Analyst,Wealth Management,Calgary,2,53.2,81400.0,1,1
+CNF0703,Male,Senior Analyst,Pension Administration,Vancouver,3,66.3,83300.0,1,2
+CNF0704,Male,Analyst,Wealth Management,Toronto,7,89.2,95900.0,3,1
+CNF0705,Female,Analyst,Retail Banking,Vancouver,2,86.8,60900.0,1,1
+CNF0706,Male,VP,Pension Administration,Calgary,2,69.5,192100.0,1,5
+CNF0707,Female,Senior Analyst,Retail Banking,Vancouver,2,68.8,74600.0,1,2
+CNF0708,Male,Director,Retail Banking,Toronto,2,96.3,153100.0,1,4
+CNF0709,Female,Analyst,Pension Administration,Calgary,3,77.3,83900.0,2,1
+CNF0710,Female,Manager,Retail Banking,Toronto,8,65.4,116800.0,7,3
+CNF0711,Female,Manager,Pension Administration,Toronto,2,50.0,111400.0,1,3
+CNF0712,Female,Manager,Pension Administration,Toronto,3,75.5,117900.0,2,3
+CNF0713,Female,Senior Analyst,Pension Administration,Vancouver,5,81.6,82600.0,1,2
+CNF0714,Male,Senior Analyst,Retail Banking,Calgary,1,61.2,83300.0,0,2
+CNF0715,Male,Senior Analyst,Wealth Management,Vancouver,1,74.1,105900.0,0,2
+CNF0716,Female,Director,Pension Administration,Vancouver,13,64.9,145300.0,6,4
+CNF0717,Male,Director,Wealth Management,Toronto,6,67.4,170600.0,2,4
+CNF0718,Male,VP,Wealth Management,Toronto,4,35.2,200600.0,2,5
+CNF0719,Female,Analyst,Pension Administration,Toronto,5,66.9,80200.0,3,1
+CNF0720,Male,Manager,Retail Banking,Toronto,0,83.6,112300.0,0,3
+CNF0721,Female,VP,Retail Banking,Toronto,4,61.2,175400.0,3,5
+CNF0722,Female,Analyst,Wealth Management,Toronto,3,70.7,74100.0,2,1
+CNF0723,Female,Analyst,Retail Banking,Toronto,3,59.4,67900.0,2,1
+CNF0724,Female,Manager,Wealth Management,Toronto,2,75.0,110600.0,0,3
+CNF0725,Male,Senior Analyst,Retail Banking,Toronto,0,67.0,71500.0,0,2
+CNF0726,Male,Director,Wealth Management,Toronto,1,56.9,156000.0,0,4
+CNF0727,Male,Analyst,Wealth Management,Vancouver,15,88.7,96500.0,6,1
+CNF0728,Male,Manager,Pension Administration,Calgary,2,83.0,119900.0,0,3
+CNF0729,Female,Analyst,Retail Banking,Vancouver,3,61.5,63700.0,2,1
+CNF0730,Female,Analyst,Wealth Management,Toronto,0,77.0,70600.0,0,1
+CNF0731,Male,Analyst,Pension Administration,Toronto,0,77.5,61400.0,0,1
+CNF0732,Male,Director,Pension Administration,Calgary,6,79.0,170200.0,3,4
+CNF0733,Female,Manager,Wealth Management,Toronto,3,46.3,106700.0,1,3
+CNF0734,Male,Senior Analyst,Wealth Management,Toronto,3,84.1,101100.0,2,2
+CNF0735,Male,Senior Analyst,Wealth Management,Toronto,1,62.0,103800.0,0,2
+CNF0736,Male,Director,Retail Banking,Toronto,6,65.0,148700.0,5,4
+CNF0737,Female,Senior Analyst,Pension Administration,Toronto,0,100.0,93600.0,0,2
+CNF0738,Female,Director,Wealth Management,Toronto,1,74.2,153900.0,0,4
+CNF0739,Female,Senior Analyst,Pension Administration,Calgary,3,64.6,89600.0,2,2
+CNF0740,Female,Senior Analyst,Retail Banking,Toronto,1,39.1,67700.0,0,2
+CNF0741,Male,Senior Analyst,Retail Banking,Toronto,1,89.5,102900.0,0,2
+CNF0742,Male,Senior Analyst,Wealth Management,Calgary,5,51.2,82300.0,2,2
+CNF0743,Female,Manager,Wealth Management,Toronto,5,56.0,122800.0,4,3
+CNF0744,Male,Senior Analyst,Pension Administration,Toronto,8,65.4,93100.0,4,2
+CNF0745,Female,Analyst,Wealth Management,Vancouver,2,89.8,88000.0,1,1
+CNF0746,Female,Director,Retail Banking,Toronto,0,80.8,139100.0,0,4
+CNF0747,Female,Senior Analyst,Wealth Management,Toronto,1,67.8,88700.0,0,2
+CNF0748,Female,Senior Analyst,Wealth Management,Toronto,19,74.3,117400.0,9,2
+CNF0749,Female,Director,Wealth Management,Toronto,4,61.6,155500.0,2,4
+CNF0750,Female,Manager,Retail Banking,Toronto,6,72.0,115800.0,4,3
+CNF0751,Male,Analyst,Pension Administration,Calgary,0,71.0,61200.0,0,1
+CNF0752,Male,VP,Pension Administration,Toronto,3,83.6,201300.0,0,5
+CNF0753,Male,Manager,Wealth Management,Toronto,0,83.5,127700.0,0,3
+CNF0754,Female,Senior Analyst,Retail Banking,Toronto,4,76.9,86300.0,1,2
+CNF0755,Male,Analyst,Pension Administration,Toronto,12,64.9,86500.0,9,1
+CNF0756,Female,Manager,Pension Administration,Calgary,17,80.4,115600.0,7,3
+CNF0757,Male,Manager,Pension Administration,Toronto,3,68.7,121000.0,1,3
+CNF0758,Female,Senior Analyst,Pension Administration,Toronto,3,54.9,81000.0,1,2
+CNF0759,Male,Director,Wealth Management,Toronto,14,64.4,166700.0,9,4
+CNF0760,Female,Manager,Wealth Management,Toronto,5,71.2,119100.0,1,3
+CNF0761,Female,Analyst,Wealth Management,Toronto,0,82.7,74700.0,0,1
+CNF0762,Male,Senior Analyst,Wealth Management,Calgary,3,67.4,77000.0,1,2
+CNF0763,Male,Analyst,Wealth Management,Toronto,1,53.1,69900.0,1,1
+CNF0764,Female,Manager,Retail Banking,Toronto,3,70.8,103000.0,1,3
+CNF0765,Male,Analyst,Wealth Management,Toronto,3,71.6,86200.0,2,1
+CNF0766,Male,Senior Analyst,Retail Banking,Calgary,4,72.6,83700.0,1,2
+CNF0767,Female,Manager,Wealth Management,Toronto,2,82.9,123000.0,0,3
+CNF0768,Female,Director,Pension Administration,Calgary,0,84.3,150800.0,0,4
+CNF0769,Female,Senior Analyst,Wealth Management,Calgary,3,61.7,96000.0,1,2
+CNF0770,Male,Director,Pension Administration,Vancouver,8,61.4,160200.0,7,4
+CNF0771,Male,Analyst,Wealth Management,Toronto,5,55.4,76600.0,4,1
+CNF0772,Female,Director,Pension Administration,Toronto,2,79.8,149500.0,1,4
+CNF0773,Female,Analyst,Pension Administration,Calgary,13,90.3,80900.0,9,1
+CNF0774,Female,Senior Analyst,Retail Banking,Vancouver,12,65.6,87500.0,7,2
+CNF0775,Male,Manager,Pension Administration,Vancouver,1,66.6,116300.0,0,3
+CNF0776,Male,Analyst,Retail Banking,Toronto,0,90.5,68600.0,0,1
+CNF0777,Male,Analyst,Pension Administration,Toronto,6,77.1,89200.0,4,1
+CNF0778,Male,Manager,Wealth Management,Toronto,8,76.1,134000.0,5,3
+CNF0779,Male,Manager,Wealth Management,Calgary,17,53.3,136400.0,7,3
+CNF0780,Male,Manager,Wealth Management,Toronto,11,79.5,147800.0,3,3
+CNF0781,Female,Manager,Pension Administration,Toronto,4,57.0,115700.0,3,3
+CNF0782,Male,Senior Analyst,Pension Administration,Calgary,3,54.1,77500.0,1,2
+CNF0783,Female,Analyst,Pension Administration,Toronto,0,65.1,64500.0,0,1
+CNF0784,Female,Senior Analyst,Pension Administration,Vancouver,1,61.8,85700.0,0,2
+CNF0785,Female,Analyst,Wealth Management,Toronto,3,66.9,80200.0,2,1
+CNF0786,Male,Director,Retail Banking,Toronto,4,49.8,136900.0,1,4
+CNF0787,Female,Manager,Retail Banking,Toronto,4,83.4,109800.0,3,3
+CNF0788,Female,Senior Analyst,Retail Banking,Calgary,6,85.8,94700.0,2,2
+CNF0789,Female,Senior Analyst,Retail Banking,Toronto,1,42.7,66400.0,0,2
+CNF0790,Female,VP,Wealth Management,Toronto,4,83.7,201100.0,3,5
+CNF0791,Female,Analyst,Pension Administration,Vancouver,0,58.7,67000.0,0,1
+CNF0792,Female,Manager,Retail Banking,Toronto,2,82.0,110700.0,1,3
+CNF0793,Male,Senior Analyst,Wealth Management,Toronto,6,69.0,101000.0,3,2
+CNF0794,Female,Manager,Wealth Management,Toronto,5,70.4,118100.0,2,3
+CNF0795,Male,Analyst,Pension Administration,Toronto,23,67.4,95200.0,20,1
+CNF0796,Female,Director,Wealth Management,Calgary,1,87.0,144500.0,0,4
+CNF0797,Male,VP,Wealth Management,Toronto,3,52.6,199900.0,1,5
+CNF0798,Male,Senior Analyst,Retail Banking,Toronto,1,78.5,92000.0,0,2
+CNF0799,Female,Manager,Wealth Management,Toronto,2,85.4,133000.0,1,3
+CNF0800,Female,Director,Wealth Management,Calgary,9,80.0,162800.0,8,4
+CNF0801,Male,Manager,Retail Banking,Toronto,5,100.0,122900.0,2,3
+CNF0802,Male,Analyst,Pension Administration,Toronto,10,62.6,86300.0,9,1
+CNF0803,Female,Senior Analyst,Wealth Management,Toronto,1,83.4,96400.0,1,2
+CNF0804,Male,Manager,Pension Administration,Toronto,10,68.5,118900.0,4,3
+CNF0805,Female,Senior Analyst,Wealth Management,Toronto,0,87.3,96500.0,0,2
+CNF0806,Male,Manager,Retail Banking,Toronto,10,69.9,130400.0,9,3
+CNF0807,Female,VP,Pension Administration,Calgary,1,64.6,182600.0,0,5
+CNF0808,Female,Director,Retail Banking,Toronto,1,88.3,143000.0,0,4
+CNF0809,Male,Senior Analyst,Pension Administration,Vancouver,3,63.1,99900.0,1,2
+CNF0810,Male,Analyst,Retail Banking,Vancouver,14,50.2,63200.0,10,1
+CNF0811,Male,VP,Retail Banking,Toronto,0,62.8,179800.0,0,5
+CNF0812,Female,Director,Retail Banking,Toronto,2,78.7,131100.0,0,4
+CNF0813,Female,Analyst,Pension Administration,Toronto,9,89.5,83400.0,3,1
+CNF0814,Female,Director,Retail Banking,Calgary,2,71.6,136400.0,1,4
+CNF0815,Male,Director,Wealth Management,Toronto,1,88.5,175700.0,0,4
+CNF0816,Male,Senior Analyst,Pension Administration,Toronto,2,51.0,88100.0,1,2
+CNF0817,Male,Manager,Retail Banking,Toronto,2,63.8,108700.0,1,3
+CNF0818,Male,Senior Analyst,Pension Administration,Calgary,12,66.0,99400.0,7,2
+CNF0819,Female,Analyst,Retail Banking,Calgary,7,68.4,64400.0,5,1
+CNF0820,Female,Senior Analyst,Pension Administration,Toronto,3,71.2,78400.0,1,2
+CNF0821,Female,Director,Wealth Management,Calgary,22,79.7,187400.0,10,4
+CNF0822,Male,Analyst,Wealth Management,Toronto,3,63.8,83400.0,2,1
+CNF0823,Female,Senior Analyst,Pension Administration,Toronto,0,71.9,85400.0,0,2
+CNF0824,Female,Senior Analyst,Pension Administration,Vancouver,1,69.4,87000.0,1,2
+CNF0825,Female,Senior Analyst,Pension Administration,Toronto,2,57.0,86500.0,1,2
+CNF0826,Female,Director,Wealth Management,Toronto,0,68.4,146100.0,0,4
+CNF0827,Male,Senior Analyst,Pension Administration,Toronto,14,68.0,101200.0,13,2
+CNF0828,Male,Senior Analyst,Wealth Management,Vancouver,7,67.7,107600.0,3,2
+CNF0829,Female,Manager,Pension Administration,Calgary,1,70.4,110000.0,0,3
+CNF0830,Male,Senior Analyst,Pension Administration,Calgary,4,71.1,88100.0,2,2
+CNF0831,Male,Analyst,Wealth Management,Calgary,6,63.9,89100.0,5,1
+CNF0832,Female,Senior Analyst,Pension Administration,Toronto,14,87.8,107200.0,8,2
+CNF0833,Female,Analyst,Retail Banking,Toronto,10,53.6,68900.0,8,1
+CNF0834,Female,Analyst,Retail Banking,Toronto,3,59.9,67800.0,1,1
+CNF0835,Male,Senior Analyst,Wealth Management,Toronto,7,100.0,117400.0,3,2
+CNF0836,Male,Senior Analyst,Wealth Management,Toronto,4,55.5,100400.0,1,2
+CNF0837,Female,Director,Retail Banking,Vancouver,4,51.0,136300.0,2,4
+CNF0838,Female,Senior Analyst,Pension Administration,Toronto,0,80.3,82800.0,0,2
+CNF0839,Female,Manager,Pension Administration,Toronto,0,40.9,98600.0,0,3
+CNF0840,Female,Manager,Pension Administration,Toronto,3,66.7,112600.0,2,3
+CNF0841,Female,Analyst,Retail Banking,Toronto,1,100.0,65300.0,0,1
+CNF0842,Female,Manager,Pension Administration,Vancouver,0,48.4,112800.0,0,3
+CNF0843,Male,Analyst,Wealth Management,Toronto,6,42.3,67600.0,2,1
+CNF0844,Female,VP,Retail Banking,Toronto,0,49.0,164400.0,0,5
+CNF0845,Female,Analyst,Retail Banking,Calgary,4,82.6,73400.0,4,1
+CNF0846,Female,Senior Analyst,Wealth Management,Toronto,3,85.7,105800.0,1,2
+CNF0847,Male,Analyst,Pension Administration,Toronto,17,62.8,79900.0,5,1
+CNF0848,Female,VP,Retail Banking,Toronto,3,79.6,191000.0,1,5
+CNF0849,Male,Senior Analyst,Wealth Management,Toronto,0,89.5,113600.0,0,2
+CNF0850,Male,Manager,Pension Administration,Vancouver,4,95.0,127200.0,2,3
+CNF0851,Male,Analyst,Pension Administration,Calgary,9,66.6,92200.0,7,1
+CNF0852,Female,Manager,Retail Banking,Toronto,25,37.8,107900.0,11,3
+CNF0853,Male,Analyst,Wealth Management,Calgary,2,58.5,78400.0,1,1
+CNF0854,Male,Director,Retail Banking,Toronto,1,64.0,151900.0,0,4
+CNF0855,Male,Analyst,Retail Banking,Toronto,11,66.4,81900.0,5,1
+CNF0856,Female,Analyst,Wealth Management,Toronto,1,67.4,71400.0,0,1
+CNF0857,Male,Analyst,Wealth Management,Toronto,4,85.7,87400.0,1,1
+CNF0858,Male,Senior Analyst,Wealth Management,Toronto,2,87.8,110200.0,1,2
+CNF0859,Female,Senior Analyst,Pension Administration,Calgary,0,67.6,84600.0,0,2
+CNF0860,Male,Analyst,Wealth Management,Vancouver,2,85.4,88300.0,1,1
+CNF0861,Female,Manager,Retail Banking,Toronto,1,75.0,113500.0,0,3
+CNF0862,Female,Senior Analyst,Wealth Management,Toronto,5,70.9,92400.0,3,2
+CNF0863,Male,Senior Analyst,Retail Banking,Toronto,14,82.7,103800.0,6,2
+CNF0864,Male,Senior Analyst,Wealth Management,Toronto,1,71.0,94700.0,0,2
+CNF0865,Female,Senior Analyst,Wealth Management,Toronto,8,98.8,109100.0,5,2
+CNF0866,Male,Senior Analyst,Wealth Management,Toronto,0,49.9,97100.0,0,2
+CNF0867,Male,Analyst,Wealth Management,Calgary,3,62.8,77600.0,1,1
+CNF0868,Male,Analyst,Wealth Management,Toronto,0,68.2,93000.0,0,1
+CNF0869,Female,Director,Pension Administration,Toronto,13,76.2,157600.0,4,4
+CNF0870,Male,VP,Wealth Management,Toronto,7,87.8,218400.0,2,5
+CNF0871,Female,Senior Analyst,Pension Administration,Toronto,5,69.7,90700.0,3,2
+CNF0872,Female,Analyst,Wealth Management,Toronto,8,50.1,70500.0,4,1
+CNF0873,Male,Manager,Wealth Management,Calgary,5,81.8,130500.0,4,3
+CNF0874,Male,Senior Analyst,Wealth Management,Toronto,17,80.6,127000.0,9,2
+CNF0875,Female,Analyst,Retail Banking,Calgary,6,42.8,54400.0,5,1
+CNF0876,Male,Analyst,Wealth Management,Toronto,12,69.9,87000.0,8,1
+CNF0877,Female,Manager,Wealth Management,Toronto,3,47.7,107600.0,2,3
+CNF0878,Male,Manager,Wealth Management,Toronto,0,60.7,117000.0,0,3
+CNF0879,Male,Analyst,Wealth Management,Calgary,3,57.4,75500.0,2,1
+CNF0880,Male,Analyst,Pension Administration,Toronto,0,81.3,81100.0,0,1
+CNF0881,Male,Analyst,Pension Administration,Calgary,4,71.6,65100.0,3,1
+CNF0882,Male,Manager,Wealth Management,Toronto,3,52.0,119300.0,1,3
+CNF0883,Female,Analyst,Wealth Management,Calgary,4,82.3,79300.0,1,1
+CNF0884,Male,Analyst,Pension Administration,Toronto,0,49.9,52000.0,0,1
+CNF0885,Male,Manager,Pension Administration,Calgary,1,74.6,110600.0,0,3
+CNF0886,Male,Analyst,Pension Administration,Toronto,3,58.6,66400.0,1,1
+CNF0887,Female,Manager,Retail Banking,Vancouver,15,64.9,111600.0,6,3
+CNF0888,Male,Analyst,Pension Administration,Toronto,2,77.1,76900.0,1,1
+CNF0889,Female,Analyst,Wealth Management,Toronto,2,77.3,76400.0,2,1
+CNF0890,Male,Analyst,Pension Administration,Toronto,6,88.7,81000.0,3,1
+CNF0891,Male,Manager,Wealth Management,Calgary,4,68.8,127700.0,3,3
+CNF0892,Male,Director,Pension Administration,Toronto,1,74.3,163800.0,0,4
+CNF0893,Female,Director,Pension Administration,Calgary,2,63.9,147500.0,1,4
+CNF0894,Male,Senior Analyst,Wealth Management,Toronto,1,72.5,89300.0,1,2
+CNF0895,Male,Manager,Pension Administration,Toronto,16,76.2,138200.0,14,3
+CNF0896,Male,Analyst,Pension Administration,Toronto,0,68.6,68400.0,0,1
+CNF0897,Female,Analyst,Pension Administration,Vancouver,2,44.7,56900.0,1,1
+CNF0898,Male,Director,Pension Administration,Calgary,0,74.6,146200.0,0,4
+CNF0899,Male,Analyst,Pension Administration,Vancouver,1,75.1,72500.0,0,1
+CNF0900,Male,Analyst,Pension Administration,Toronto,7,60.5,76400.0,4,1
+CNF0901,Male,Analyst,Retail Banking,Calgary,1,52.0,54200.0,0,1
+CNF0902,Female,Analyst,Wealth Management,Calgary,0,90.7,70400.0,0,1
+CNF0903,Female,Analyst,Wealth Management,Toronto,3,76.9,75700.0,2,1
+CNF0904,Male,Manager,Pension Administration,Calgary,0,66.8,112300.0,0,3
+CNF0905,Male,Senior Analyst,Retail Banking,Vancouver,0,54.1,81000.0,0,2
+CNF0906,Male,Director,Wealth Management,Vancouver,8,58.5,166900.0,7,4
+CNF0907,Male,Director,Pension Administration,Calgary,7,88.2,159200.0,3,4
+CNF0908,Male,Senior Analyst,Wealth Management,Toronto,12,71.9,114100.0,8,2
+CNF0909,Female,Analyst,Pension Administration,Toronto,9,62.3,77400.0,2,1
+CNF0910,Female,Senior Analyst,Pension Administration,Vancouver,5,77.1,97700.0,2,2
+CNF0911,Female,Manager,Wealth Management,Toronto,0,58.6,112200.0,0,3
+CNF0912,Female,Analyst,Retail Banking,Calgary,7,91.0,70300.0,2,1
+CNF0913,Female,Manager,Wealth Management,Calgary,9,88.9,132100.0,5,3
+CNF0914,Female,Senior Analyst,Wealth Management,Calgary,8,63.5,89100.0,4,2
+CNF0915,Male,Senior Analyst,Retail Banking,Vancouver,3,61.2,83200.0,2,2
+CNF0916,Female,Senior Analyst,Pension Administration,Toronto,1,33.3,77100.0,0,2
+CNF0917,Male,Analyst,Pension Administration,Toronto,9,49.3,77400.0,4,1
+CNF0918,Male,VP,Wealth Management,Toronto,6,51.2,202500.0,2,5
+CNF0919,Female,Manager,Wealth Management,Toronto,19,71.9,138900.0,14,3
+CNF0920,Male,Analyst,Wealth Management,Toronto,0,65.4,71400.0,0,1
+CNF0921,Male,Director,Retail Banking,Toronto,1,51.2,144600.0,0,4
+CNF0922,Female,Senior Analyst,Wealth Management,Calgary,1,66.1,88700.0,0,2
+CNF0923,Male,Director,Wealth Management,Vancouver,7,77.1,165600.0,2,4
+CNF0924,Male,Manager,Pension Administration,Toronto,1,77.4,117400.0,0,3
+CNF0925,Female,Senior Analyst,Retail Banking,Toronto,0,43.4,68800.0,0,2
+CNF0926,Female,Analyst,Retail Banking,Vancouver,25,68.2,79200.0,22,1
+CNF0927,Female,Analyst,Retail Banking,Toronto,0,50.6,55700.0,0,1
+CNF0928,Male,Senior Analyst,Pension Administration,Toronto,9,82.6,102800.0,4,2
+CNF0929,Male,Manager,Wealth Management,Toronto,2,81.0,139700.0,2,3
+CNF0930,Female,Analyst,Pension Administration,Toronto,9,57.4,78700.0,5,1
+CNF0931,Female,Analyst,Pension Administration,Toronto,4,59.3,60000.0,3,1
+CNF0932,Male,Director,Pension Administration,Vancouver,11,63.5,158900.0,4,4
+CNF0933,Male,VP,Wealth Management,Toronto,13,38.5,202800.0,9,5
+CNF0934,Male,Senior Analyst,Wealth Management,Toronto,0,74.7,97700.0,0,2
+CNF0935,Female,Analyst,Pension Administration,Toronto,0,66.2,74200.0,0,1
+CNF0936,Male,Analyst,Wealth Management,Toronto,1,83.6,82900.0,0,1
+CNF0937,Female,Analyst,Wealth Management,Calgary,5,54.6,72000.0,3,1
+CNF0938,Male,Director,Wealth Management,Calgary,10,61.3,167000.0,5,4
+CNF0939,Female,Analyst,Pension Administration,Calgary,3,48.9,51600.0,2,1
+CNF0940,Female,Senior Analyst,Wealth Management,Toronto,4,55.9,87000.0,2,2
+CNF0941,Female,Analyst,Retail Banking,Vancouver,1,53.5,45500.0,0,1
+CNF0942,Male,Senior Analyst,Pension Administration,Calgary,8,83.9,96300.0,4,2
+CNF0943,Female,Manager,Pension Administration,Calgary,17,60.2,103500.0,9,3
+CNF0944,Female,Director,Wealth Management,Toronto,1,71.7,153400.0,0,4
+CNF0945,Male,Analyst,Retail Banking,Toronto,3,64.7,79900.0,2,1
+CNF0946,Female,Analyst,Wealth Management,Toronto,0,52.2,66200.0,0,1
+CNF0947,Female,Analyst,Wealth Management,Calgary,4,67.6,64800.0,3,1
+CNF0948,Female,Director,Wealth Management,Toronto,3,78.4,151100.0,1,4
+CNF0949,Female,Director,Wealth Management,Toronto,0,53.1,138800.0,0,4
+CNF0950,Male,Manager,Pension Administration,Vancouver,2,81.3,114100.0,1,3
+CNF0951,Male,Manager,Wealth Management,Vancouver,2,58.1,125300.0,1,3
+CNF0952,Male,Manager,Retail Banking,Vancouver,3,63.2,115000.0,2,3
+CNF0953,Female,Analyst,Wealth Management,Toronto,4,77.4,72800.0,1,1
+CNF0954,Female,Director,Retail Banking,Calgary,0,60.7,132600.0,0,4
+CNF0955,Female,Senior Analyst,Wealth Management,Toronto,7,70.5,109600.0,3,2
+CNF0956,Male,Senior Analyst,Pension Administration,Toronto,6,65.6,107600.0,6,2
+CNF0957,Male,Senior Analyst,Retail Banking,Toronto,2,71.8,106100.0,1,2
+CNF0958,Female,Analyst,Pension Administration,Toronto,0,36.7,46400.0,0,1
+CNF0959,Male,Analyst,Wealth Management,Toronto,7,44.4,94800.0,5,1
+CNF0960,Male,Manager,Pension Administration,Calgary,15,78.6,129500.0,8,3
+CNF0961,Female,Analyst,Pension Administration,Toronto,1,84.5,67000.0,0,1
+CNF0962,Male,Manager,Wealth Management,Calgary,1,57.3,119500.0,0,3
+CNF0963,Male,Analyst,Pension Administration,Toronto,1,66.6,67300.0,0,1
+CNF0964,Male,Senior Analyst,Wealth Management,Toronto,4,74.1,107400.0,1,2
+CNF0965,Male,Analyst,Wealth Management,Toronto,0,79.7,73500.0,0,1
+CNF0966,Female,Senior Analyst,Pension Administration,Toronto,2,41.6,75400.0,1,2
+CNF0967,Male,Manager,Pension Administration,Toronto,5,57.6,125100.0,1,3
+CNF0968,Male,Analyst,Wealth Management,Toronto,4,65.3,81600.0,2,1
+CNF0969,Male,Senior Analyst,Pension Administration,Toronto,2,79.8,97600.0,1,2
+CNF0970,Female,Senior Analyst,Wealth Management,Toronto,2,100.0,108100.0,1,2
+CNF0971,Male,Manager,Wealth Management,Toronto,4,66.8,134500.0,3,3
+CNF0972,Female,VP,Retail Banking,Vancouver,0,50.3,160700.0,0,5
+CNF0973,Male,Manager,Wealth Management,Toronto,0,75.6,128500.0,0,3
+CNF0974,Male,Analyst,Wealth Management,Calgary,10,88.5,91700.0,4,1
+CNF0975,Male,Analyst,Wealth Management,Calgary,0,71.5,76500.0,0,1
+CNF0976,Female,Analyst,Pension Administration,Vancouver,6,57.3,71200.0,5,1
+CNF0977,Female,Manager,Pension Administration,Calgary,12,83.4,116800.0,9,3
+CNF0978,Male,Analyst,Retail Banking,Toronto,1,79.3,64200.0,0,1
+CNF0979,Female,Senior Analyst,Wealth Management,Calgary,2,55.6,75100.0,0,2
+CNF0980,Female,Manager,Retail Banking,Vancouver,4,75.3,105700.0,1,3
+CNF0981,Male,Senior Analyst,Retail Banking,Toronto,10,84.0,109700.0,7,2
+CNF0982,Female,Manager,Retail Banking,Toronto,14,86.5,124200.0,11,3
+CNF0983,Male,Analyst,Retail Banking,Toronto,6,69.1,64400.0,2,1
+CNF0984,Female,Analyst,Wealth Management,Calgary,0,65.0,63800.0,0,1
+CNF0985,Female,Manager,Pension Administration,Calgary,5,87.2,109300.0,3,3
+CNF0986,Female,Senior Analyst,Wealth Management,Toronto,2,53.1,82100.0,1,2
+CNF0987,Female,Manager,Wealth Management,Toronto,3,76.1,125400.0,2,3
+CNF0988,Male,Senior Analyst,Wealth Management,Toronto,0,50.8,84200.0,0,2
+CNF0989,Female,Analyst,Wealth Management,Toronto,1,84.9,85400.0,0,1
+CNF0990,Male,Director,Wealth Management,Vancouver,7,66.4,163100.0,2,4
+CNF0991,Male,Manager,Wealth Management,Toronto,3,87.8,134200.0,1,3
+CNF0992,Female,Manager,Pension Administration,Toronto,1,76.9,111200.0,0,3
+CNF0993,Female,Analyst,Wealth Management,Toronto,2,52.9,73400.0,1,1
+CNF0994,Female,Manager,Pension Administration,Calgary,9,89.9,128000.0,5,3
+CNF0995,Male,Senior Analyst,Retail Banking,Toronto,6,91.7,102300.0,4,2
+CNF0996,Female,Analyst,Pension Administration,Calgary,1,82.4,70200.0,0,1
+CNF0997,Female,Director,Pension Administration,Toronto,0,59.3,134500.0,0,4
+CNF0998,Male,Analyst,Pension Administration,Toronto,1,65.7,73700.0,0,1
+CNF0999,Male,VP,Wealth Management,Toronto,12,72.0,215400.0,10,5
+CNF1000,Male,Senior Analyst,Wealth Management,Toronto,4,60.1,100100.0,2,2
+CNF1001,Male,Analyst,Pension Administration,Toronto,3,93.7,81100.0,1,1
+CNF1002,Female,Senior Analyst,Pension Administration,Vancouver,4,72.0,85100.0,2,2
+CNF1003,Female,Director,Wealth Management,Calgary,2,32.2,130400.0,1,4
+CNF1004,Female,Manager,Pension Administration,Vancouver,8,74.8,120800.0,7,3
+CNF1005,Female,Director,Wealth Management,Toronto,3,65.1,158100.0,2,4
+CNF1006,Male,Manager,Wealth Management,Vancouver,0,69.0,127700.0,0,3
+CNF1007,Female,Manager,Wealth Management,Toronto,0,64.8,107100.0,0,3
+CNF1008,Male,Director,Pension Administration,Toronto,3,81.3,166200.0,2,4
+CNF1009,Female,Analyst,Retail Banking,Toronto,13,85.7,76800.0,11,1
+CNF1010,Male,Senior Analyst,Wealth Management,Toronto,1,74.0,105000.0,0,2
+CNF1011,Female,Analyst,Wealth Management,Calgary,10,65.2,73200.0,7,1
+CNF1012,Male,VP,Pension Administration,Toronto,7,69.4,204400.0,4,5
+CNF1013,Male,VP,Wealth Management,Toronto,1,70.3,207000.0,0,5
+CNF1014,Female,Analyst,Pension Administration,Calgary,0,58.8,47700.0,0,1
+CNF1015,Male,Manager,Wealth Management,Toronto,0,78.1,129500.0,0,3
+CNF1016,Female,Director,Retail Banking,Toronto,6,76.4,152600.0,5,4
+CNF1017,Male,Analyst,Wealth Management,Toronto,1,91.6,86500.0,0,1
+CNF1018,Female,Senior Analyst,Pension Administration,Calgary,2,87.6,98100.0,1,2
+CNF1019,Male,Director,Pension Administration,Calgary,3,60.4,147000.0,2,4
+CNF1020,Male,Analyst,Wealth Management,Toronto,6,81.5,94900.0,3,1
+CNF1021,Male,Manager,Pension Administration,Toronto,0,56.7,97000.0,0,3
+CNF1022,Male,Analyst,Pension Administration,Toronto,2,79.7,91200.0,1,1
+CNF1023,Male,Director,Retail Banking,Calgary,3,62.8,152900.0,0,4
+CNF1024,Male,VP,Wealth Management,Toronto,3,55.7,200800.0,1,5
+CNF1025,Male,VP,Pension Administration,Toronto,8,73.9,194300.0,3,5
+CNF1026,Male,Senior Analyst,Retail Banking,Toronto,0,32.6,73600.0,0,2
+CNF1027,Female,Director,Pension Administration,Toronto,8,45.5,132100.0,3,4
+CNF1028,Female,Director,Retail Banking,Toronto,5,67.5,143000.0,3,4
+CNF1029,Male,Senior Analyst,Pension Administration,Calgary,4,71.2,95500.0,1,2
+CNF1030,Female,Director,Retail Banking,Toronto,6,64.8,134800.0,3,4
+CNF1031,Female,Analyst,Wealth Management,Toronto,2,47.9,73800.0,1,1
+CNF1032,Male,Manager,Retail Banking,Calgary,0,58.5,107800.0,0,3
+CNF1033,Female,Analyst,Retail Banking,Calgary,5,75.5,70000.0,3,1
+CNF1034,Male,Analyst,Pension Administration,Toronto,3,78.1,77400.0,2,1
+CNF1035,Male,Analyst,Retail Banking,Toronto,5,69.8,63100.0,3,1
+CNF1036,Male,Manager,Wealth Management,Toronto,2,86.2,137800.0,1,3
+CNF1037,Female,Senior Analyst,Wealth Management,Vancouver,11,75.6,102600.0,4,2
+CNF1038,Female,Manager,Pension Administration,Toronto,4,59.5,102100.0,1,3
+CNF1039,Male,Analyst,Wealth Management,Vancouver,0,66.1,82700.0,0,1
+CNF1040,Male,Senior Analyst,Pension Administration,Calgary,2,50.4,96000.0,1,2
+CNF1041,Female,Senior Analyst,Wealth Management,Toronto,7,68.5,99500.0,5,2
+CNF1042,Male,Manager,Wealth Management,Toronto,7,85.6,150200.0,5,3
+CNF1043,Male,Senior Analyst,Retail Banking,Toronto,3,79.6,93400.0,1,2
+CNF1044,Female,Manager,Retail Banking,Toronto,11,89.6,120900.0,3,3
+CNF1045,Female,Director,Wealth Management,Toronto,1,65.8,144200.0,0,4
+CNF1046,Female,Manager,Pension Administration,Calgary,2,88.8,125200.0,1,3
+CNF1047,Female,Analyst,Pension Administration,Vancouver,11,67.3,68700.0,6,1
+CNF1048,Female,Analyst,Pension Administration,Toronto,11,90.6,87900.0,10,1
+CNF1049,Male,Director,Pension Administration,Calgary,5,69.7,150200.0,2,4
+CNF1050,Male,Analyst,Pension Administration,Toronto,9,79.9,81500.0,4,1
+CNF1051,Male,Director,Pension Administration,Toronto,0,90.7,163400.0,0,4
+CNF1052,Female,Senior Analyst,Retail Banking,Toronto,10,67.3,87100.0,8,2
+CNF1053,Female,VP,Wealth Management,Calgary,1,73.1,190200.0,0,5
+CNF1054,Male,Manager,Pension Administration,Vancouver,0,88.0,126100.0,0,3
+CNF1055,Female,VP,Wealth Management,Calgary,1,68.1,200400.0,0,5
+CNF1056,Male,Senior Analyst,Pension Administration,Toronto,2,51.5,90700.0,1,2
+CNF1057,Male,Manager,Wealth Management,Toronto,1,100.0,131600.0,0,3
+CNF1058,Female,Senior Analyst,Wealth Management,Toronto,1,63.4,88100.0,0,2
+CNF1059,Male,Senior Analyst,Wealth Management,Toronto,0,72.2,99200.0,0,2
+CNF1060,Female,Manager,Wealth Management,Calgary,1,86.2,123100.0,0,3
+CNF1061,Male,Director,Retail Banking,Calgary,4,61.5,138700.0,2,4
+CNF1062,Female,VP,Retail Banking,Calgary,2,55.9,179200.0,1,5
+CNF1063,Female,Manager,Wealth Management,Toronto,2,73.6,121600.0,1,3
+CNF1064,Male,Senior Analyst,Wealth Management,Toronto,6,44.9,86700.0,2,2
+CNF1065,Female,Senior Analyst,Wealth Management,Toronto,11,66.0,97300.0,3,2
+CNF1066,Male,Manager,Pension Administration,Toronto,7,73.4,121900.0,4,3
+CNF1067,Male,Analyst,Wealth Management,Toronto,2,66.2,79500.0,1,1
+CNF1068,Male,Analyst,Pension Administration,Calgary,6,48.4,78500.0,2,1
+CNF1069,Female,Senior Analyst,Wealth Management,Calgary,0,92.3,97700.0,0,2
+CNF1070,Male,Analyst,Wealth Management,Toronto,0,71.4,73400.0,0,1
+CNF1071,Male,Analyst,Pension Administration,Toronto,2,90.0,81600.0,0,1
+CNF1072,Male,Analyst,Retail Banking,Toronto,8,66.4,71400.0,6,1
+CNF1073,Male,Analyst,Retail Banking,Toronto,1,57.7,64600.0,0,1
+CNF1074,Female,Analyst,Wealth Management,Calgary,0,73.8,73300.0,0,1
+CNF1075,Male,VP,Wealth Management,Toronto,0,67.0,209200.0,0,5
+CNF1076,Male,Senior Analyst,Retail Banking,Toronto,9,53.5,89900.0,3,2
+CNF1077,Male,Senior Analyst,Pension Administration,Toronto,5,90.6,113700.0,3,2
+CNF1078,Male,Manager,Retail Banking,Vancouver,1,61.3,112400.0,0,3
+CNF1079,Female,Analyst,Pension Administration,Toronto,4,44.2,55800.0,1,1
+CNF1080,Male,VP,Retail Banking,Toronto,3,88.6,214200.0,1,5
+CNF1081,Female,Manager,Pension Administration,Toronto,5,62.9,114700.0,1,3
+CNF1082,Male,Analyst,Retail Banking,Calgary,1,61.5,56000.0,0,1
+CNF1083,Male,Senior Analyst,Retail Banking,Vancouver,9,45.3,95100.0,7,2
+CNF1084,Female,Director,Pension Administration,Toronto,1,94.4,162500.0,0,4
+CNF1085,Male,VP,Wealth Management,Vancouver,5,51.9,201200.0,2,5
+CNF1086,Female,Senior Analyst,Retail Banking,Vancouver,0,70.8,73800.0,0,2
+CNF1087,Female,Manager,Wealth Management,Vancouver,2,82.8,121200.0,1,3
+CNF1088,Male,Analyst,Retail Banking,Calgary,2,75.9,71700.0,1,1
+CNF1089,Male,VP,Wealth Management,Calgary,3,69.2,211900.0,2,5
+CNF1090,Female,Analyst,Wealth Management,Toronto,0,46.2,66600.0,0,1
+CNF1091,Male,VP,Pension Administration,Calgary,7,58.7,197400.0,3,5
+CNF1092,Male,Manager,Pension Administration,Toronto,1,72.6,126900.0,0,3
+CNF1093,Male,Manager,Retail Banking,Calgary,5,59.0,108000.0,3,3
+CNF1094,Male,Senior Analyst,Wealth Management,Toronto,8,72.8,115000.0,5,2
+CNF1095,Female,Analyst,Wealth Management,Calgary,4,79.5,75700.0,2,1
+CNF1096,Male,Analyst,Wealth Management,Calgary,6,83.5,90100.0,3,1
+CNF1097,Male,Analyst,Wealth Management,Toronto,5,52.8,78000.0,5,1
+CNF1098,Female,Analyst,Retail Banking,Calgary,2,100.0,69000.0,1,1
+CNF1099,Male,Manager,Retail Banking,Toronto,8,80.7,121300.0,4,3
+CNF1100,Male,Senior Analyst,Wealth Management,Calgary,1,70.0,105100.0,0,2
+CNF1101,Female,Analyst,Retail Banking,Toronto,4,85.3,65100.0,2,1
+CNF1102,Male,VP,Retail Banking,Toronto,6,100.0,203800.0,2,5
+CNF1103,Female,Director,Wealth Management,Vancouver,2,49.9,154500.0,1,4
+CNF1104,Female,Director,Retail Banking,Toronto,1,66.8,141200.0,0,4
+CNF1105,Male,VP,Pension Administration,Calgary,3,36.7,170500.0,0,5
+CNF1106,Female,Analyst,Pension Administration,Toronto,8,72.7,70800.0,7,1
+CNF1107,Male,Senior Analyst,Retail Banking,Toronto,13,75.1,90600.0,7,2
+CNF1108,Male,Manager,Wealth Management,Toronto,3,69.5,121600.0,2,3
+CNF1109,Female,Manager,Retail Banking,Toronto,5,60.8,88100.0,1,3
+CNF1110,Female,Analyst,Retail Banking,Toronto,11,41.3,60400.0,4,1
+CNF1111,Male,Director,Pension Administration,Toronto,0,75.2,145000.0,0,4
+CNF1112,Female,Analyst,Retail Banking,Toronto,1,90.4,68000.0,0,1
+CNF1113,Female,Analyst,Wealth Management,Toronto,6,61.7,66600.0,5,1
+CNF1114,Female,Senior Analyst,Wealth Management,Vancouver,8,76.2,102000.0,8,2
+CNF1115,Male,Manager,Wealth Management,Vancouver,9,48.0,121600.0,5,3
+CNF1116,Male,Manager,Retail Banking,Toronto,2,76.4,124500.0,1,3
+CNF1117,Male,Analyst,Pension Administration,Calgary,0,64.5,73500.0,0,1
+CNF1118,Female,Director,Wealth Management,Toronto,2,59.3,151800.0,2,4
+CNF1119,Male,Analyst,Wealth Management,Calgary,1,59.4,71300.0,0,1
+CNF1120,Female,Analyst,Wealth Management,Calgary,1,64.5,80500.0,0,1
+CNF1121,Male,Director,Wealth Management,Vancouver,7,75.4,157300.0,5,4
+CNF1122,Male,VP,Pension Administration,Toronto,0,51.6,180100.0,0,5
+CNF1123,Male,Director,Pension Administration,Calgary,8,64.4,154300.0,5,4
+CNF1124,Female,Director,Wealth Management,Toronto,2,69.4,164100.0,1,4
+CNF1125,Male,Manager,Retail Banking,Vancouver,4,54.6,107000.0,3,3
+CNF1126,Female,Senior Analyst,Pension Administration,Toronto,0,95.2,91200.0,0,2
+CNF1127,Male,Analyst,Pension Administration,Calgary,2,58.1,57500.0,1,1
+CNF1128,Male,Senior Analyst,Retail Banking,Calgary,0,60.6,84400.0,0,2
+CNF1129,Male,Senior Analyst,Pension Administration,Calgary,16,56.3,105500.0,7,2
+CNF1130,Male,Analyst,Retail Banking,Toronto,8,95.2,88300.0,7,1
+CNF1131,Male,Manager,Wealth Management,Vancouver,3,77.7,124400.0,1,3
+CNF1132,Male,Senior Analyst,Retail Banking,Toronto,1,56.9,78200.0,0,2
+CNF1133,Male,Analyst,Pension Administration,Calgary,13,85.5,79400.0,6,1
+CNF1134,Male,Analyst,Pension Administration,Toronto,2,72.8,74800.0,1,1
+CNF1135,Female,Manager,Wealth Management,Toronto,0,73.6,111300.0,0,3
+CNF1136,Female,Analyst,Retail Banking,Toronto,4,65.2,55400.0,1,1
+CNF1137,Male,Director,Wealth Management,Toronto,14,59.5,167500.0,5,4
+CNF1138,Female,Senior Analyst,Pension Administration,Toronto,0,74.7,82200.0,0,2
+CNF1139,Female,Senior Analyst,Retail Banking,Toronto,1,62.4,74600.0,0,2
+CNF1140,Male,Manager,Retail Banking,Toronto,13,95.4,136400.0,6,3
+CNF1141,Female,Director,Wealth Management,Calgary,0,52.2,138700.0,0,4
+CNF1142,Female,Senior Analyst,Retail Banking,Vancouver,0,91.5,82300.0,0,2
+CNF1143,Male,Manager,Retail Banking,Toronto,4,68.4,116100.0,1,3
+CNF1144,Male,Senior Analyst,Wealth Management,Toronto,9,74.2,104300.0,7,2
+CNF1145,Female,Analyst,Pension Administration,Toronto,3,81.7,72700.0,1,1
+CNF1146,Female,Director,Wealth Management,Toronto,25,61.2,171300.0,18,4
+CNF1147,Male,Manager,Pension Administration,Calgary,5,82.1,113900.0,2,3
+CNF1148,Male,Manager,Wealth Management,Calgary,0,32.1,112700.0,0,3
+CNF1149,Male,Director,Wealth Management,Toronto,24,59.9,174300.0,20,4
+CNF1150,Female,Director,Pension Administration,Toronto,2,57.1,138800.0,1,4
+CNF1151,Female,Manager,Pension Administration,Toronto,1,52.5,111400.0,0,3
+CNF1152,Female,Director,Pension Administration,Calgary,4,67.0,146600.0,2,4
+CNF1153,Male,Manager,Retail Banking,Vancouver,1,75.4,112100.0,0,3
+CNF1154,Female,Manager,Retail Banking,Toronto,0,79.8,104800.0,0,3
+CNF1155,Female,Manager,Pension Administration,Toronto,0,73.4,115400.0,0,3
+CNF1156,Male,Manager,Retail Banking,Vancouver,2,60.7,112100.0,0,3
+CNF1157,Male,Analyst,Wealth Management,Vancouver,9,75.2,84900.0,3,1
+CNF1158,Female,Director,Pension Administration,Toronto,4,71.7,140900.0,2,4
+CNF1159,Female,Director,Pension Administration,Toronto,25,83.1,157700.0,9,4
+CNF1160,Male,Analyst,Wealth Management,Toronto,1,80.9,84700.0,0,1
+CNF1161,Female,Director,Retail Banking,Toronto,1,70.4,136100.0,0,4
+CNF1162,Male,Analyst,Wealth Management,Toronto,0,57.4,80400.0,0,1
+CNF1163,Female,Senior Analyst,Pension Administration,Toronto,0,60.9,82500.0,0,2
+CNF1164,Female,Manager,Pension Administration,Toronto,1,62.3,115800.0,1,3
+CNF1165,Male,Analyst,Wealth Management,Toronto,7,65.6,81100.0,3,1
+CNF1166,Female,Director,Pension Administration,Calgary,11,73.8,157400.0,7,4
+CNF1167,Female,Director,Pension Administration,Toronto,18,80.0,159300.0,16,4
+CNF1168,Male,Senior Analyst,Pension Administration,Toronto,1,69.3,96400.0,0,2
+CNF1169,Female,Analyst,Retail Banking,Toronto,10,70.2,61600.0,7,1
+CNF1170,Male,Analyst,Retail Banking,Toronto,1,72.0,69100.0,0,1
+CNF1171,Male,Manager,Wealth Management,Vancouver,0,62.8,106600.0,0,3
+CNF1172,Male,VP,Retail Banking,Toronto,10,57.0,195600.0,5,5
+CNF1173,Male,Manager,Pension Administration,Toronto,5,45.4,115700.0,1,3
+CNF1174,Female,Analyst,Wealth Management,Calgary,0,60.3,62000.0,0,1
+CNF1175,Male,Manager,Pension Administration,Toronto,2,76.6,114300.0,1,3
+CNF1176,Female,Senior Analyst,Wealth Management,Vancouver,1,60.2,93100.0,0,2
+CNF1177,Female,Manager,Retail Banking,Toronto,6,66.7,109500.0,2,3
+CNF1178,Male,Analyst,Wealth Management,Toronto,3,76.5,81800.0,2,1
+CNF1179,Female,Manager,Wealth Management,Toronto,22,77.3,142500.0,14,3
+CNF1180,Male,Senior Analyst,Wealth Management,Toronto,0,54.9,108500.0,0,2
+CNF1181,Male,VP,Pension Administration,Calgary,2,84.0,207100.0,1,5
+CNF1182,Male,Senior Analyst,Retail Banking,Calgary,3,85.8,99000.0,1,2
+CNF1183,Male,Manager,Wealth Management,Toronto,3,54.2,124600.0,1,3
+CNF1184,Male,VP,Wealth Management,Toronto,1,58.5,202000.0,0,5
+CNF1185,Female,Analyst,Wealth Management,Calgary,6,86.7,67700.0,2,1
+CNF1186,Male,VP,Wealth Management,Vancouver,10,67.9,208000.0,3,5
+CNF1187,Male,Manager,Pension Administration,Toronto,13,38.9,116000.0,10,3
+CNF1188,Female,Analyst,Wealth Management,Toronto,8,50.4,63200.0,3,1
+CNF1189,Female,Senior Analyst,Pension Administration,Toronto,9,66.5,86100.0,4,2
+CNF1190,Female,Manager,Wealth Management,Vancouver,3,53.7,101400.0,1,3
+CNF1191,Male,Analyst,Retail Banking,Toronto,8,64.2,72500.0,4,1
+CNF1192,Female,Manager,Retail Banking,Toronto,1,70.5,110600.0,0,3
+CNF1193,Female,Senior Analyst,Wealth Management,Calgary,2,90.5,105600.0,1,2
+CNF1194,Female,Manager,Wealth Management,Toronto,1,65.9,119600.0,0,3
+CNF1195,Female,Analyst,Pension Administration,Toronto,3,85.0,67400.0,2,1
+CNF1196,Male,Director,Retail Banking,Toronto,1,90.0,142400.0,0,4
+CNF1197,Male,VP,Pension Administration,Toronto,16,90.1,209100.0,8,5
+CNF1198,Male,VP,Wealth Management,Toronto,1,74.0,198800.0,0,5
+CNF1199,Male,Manager,Pension Administration,Toronto,0,42.5,100000.0,0,3
+CNF1200,Female,Analyst,Pension Administration,Toronto,3,76.5,69300.0,3,1
+CNF1201,Male,Manager,Wealth Management,Toronto,0,84.7,122100.0,0,3
+CNF1202,Female,Analyst,Pension Administration,Calgary,0,68.9,62100.0,0,1
+CNF1203,Female,Analyst,Wealth Management,Calgary,1,94.4,77600.0,0,1
+CNF1204,Male,Senior Analyst,Pension Administration,Toronto,3,82.0,98700.0,1,2
+CNF1205,Male,Senior Analyst,Pension Administration,Toronto,2,78.0,102900.0,0,2
+CNF1206,Female,Manager,Wealth Management,Toronto,8,85.2,124500.0,3,3
+CNF1207,Female,Manager,Pension Administration,Toronto,6,74.7,120400.0,4,3
+CNF1208,Male,Senior Analyst,Pension Administration,Toronto,2,35.1,81000.0,1,2
+CNF1209,Male,Analyst,Wealth Management,Calgary,2,63.0,73800.0,1,1
+CNF1210,Female,VP,Pension Administration,Toronto,1,86.8,197700.0,0,5
+CNF1211,Female,Senior Analyst,Retail Banking,Toronto,7,58.7,88600.0,4,2
+CNF1212,Male,Senior Analyst,Pension Administration,Toronto,0,66.9,83200.0,0,2
+CNF1213,Female,Analyst,Pension Administration,Calgary,0,55.4,54300.0,0,1
+CNF1214,Male,Manager,Wealth Management,Toronto,7,95.0,142200.0,6,3
+CNF1215,Male,Manager,Pension Administration,Calgary,3,93.5,123100.0,2,3
+CNF1216,Male,Analyst,Pension Administration,Toronto,0,57.6,69200.0,0,1
+CNF1217,Male,Analyst,Wealth Management,Vancouver,1,72.1,80400.0,0,1
+CNF1218,Male,Manager,Pension Administration,Vancouver,13,60.5,135400.0,4,3
+CNF1219,Male,Manager,Retail Banking,Toronto,9,78.6,114600.0,6,3
+CNF1220,Male,Analyst,Pension Administration,Toronto,6,77.1,79500.0,2,1
+CNF1221,Male,VP,Retail Banking,Toronto,3,81.4,193000.0,1,5
+CNF1222,Male,Analyst,Retail Banking,Toronto,3,74.6,74700.0,2,1
+CNF1223,Female,Senior Analyst,Wealth Management,Calgary,18,100.0,108800.0,8,2
+CNF1224,Male,VP,Retail Banking,Calgary,16,55.6,201600.0,5,5
+CNF1225,Male,Senior Analyst,Wealth Management,Calgary,1,46.1,84900.0,0,2
+CNF1226,Female,Manager,Retail Banking,Calgary,8,64.5,104000.0,2,3
+CNF1227,Female,Senior Analyst,Pension Administration,Toronto,1,48.0,69100.0,0,2
+CNF1228,Male,Analyst,Wealth Management,Toronto,1,49.1,69900.0,0,1
+CNF1229,Female,VP,Wealth Management,Calgary,5,56.0,197800.0,2,5
+CNF1230,Female,Senior Analyst,Wealth Management,Toronto,2,57.1,90100.0,0,2
+CNF1231,Female,Director,Wealth Management,Calgary,13,56.6,158300.0,12,4
+CNF1232,Male,Analyst,Wealth Management,Toronto,0,77.3,90500.0,0,1
+CNF1233,Female,Analyst,Pension Administration,Toronto,3,62.9,67100.0,1,1
+CNF1234,Male,Analyst,Pension Administration,Vancouver,12,67.5,77500.0,8,1
+CNF1235,Female,Manager,Wealth Management,Toronto,11,82.5,136500.0,9,3
+CNF1236,Female,Senior Analyst,Wealth Management,Vancouver,0,59.3,82500.0,0,2
+CNF1237,Male,Director,Retail Banking,Vancouver,2,66.3,142000.0,1,4
+CNF1238,Female,Senior Analyst,Retail Banking,Calgary,4,75.1,73800.0,2,2
+CNF1239,Male,VP,Retail Banking,Calgary,0,42.8,183000.0,0,5
+CNF1240,Female,Analyst,Wealth Management,Toronto,17,36.6,76000.0,13,1
+CNF1241,Male,Director,Pension Administration,Vancouver,12,74.8,164500.0,9,4
+CNF1242,Male,Manager,Pension Administration,Toronto,0,76.9,111200.0,0,3
+CNF1243,Male,Manager,Retail Banking,Toronto,0,98.9,122700.0,0,3
+CNF1244,Female,Director,Wealth Management,Calgary,0,72.2,140700.0,0,4
+CNF1245,Male,Manager,Pension Administration,Toronto,12,81.5,131900.0,7,3
+CNF1246,Male,Manager,Wealth Management,Toronto,1,67.3,129300.0,0,3
+CNF1247,Male,Analyst,Retail Banking,Toronto,2,74.2,74500.0,1,1
+CNF1248,Female,Analyst,Wealth Management,Toronto,2,93.3,82800.0,0,1
+CNF1249,Female,Director,Wealth Management,Vancouver,4,40.3,130100.0,4,4
+CNF1250,Male,Manager,Wealth Management,Toronto,0,75.8,143000.0,0,3
+CNF1251,Male,Manager,Pension Administration,Vancouver,1,99.9,135900.0,0,3
+CNF1252,Male,Senior Analyst,Wealth Management,Calgary,13,73.9,115400.0,11,2
+CNF1253,Male,Analyst,Wealth Management,Calgary,11,93.1,91300.0,5,1
+CNF1254,Male,Analyst,Pension Administration,Toronto,7,61.2,75000.0,4,1
+CNF1255,Female,Manager,Retail Banking,Calgary,0,69.6,97100.0,0,3
+CNF1256,Male,Senior Analyst,Wealth Management,Toronto,1,70.5,107800.0,0,2
+CNF1257,Male,Analyst,Retail Banking,Calgary,4,39.0,58300.0,1,1
+CNF1258,Male,Senior Analyst,Retail Banking,Toronto,1,53.6,76600.0,0,2
+CNF1259,Female,Analyst,Pension Administration,Vancouver,12,54.6,67000.0,6,1
+CNF1260,Female,Manager,Wealth Management,Vancouver,5,81.5,131900.0,5,3
+CNF1261,Female,Analyst,Wealth Management,Toronto,0,82.2,85400.0,0,1
+CNF1262,Male,Manager,Retail Banking,Toronto,11,74.5,133500.0,4,3
+CNF1263,Male,Senior Analyst,Pension Administration,Calgary,15,81.5,112200.0,12,2
+CNF1264,Male,Senior Analyst,Wealth Management,Toronto,0,67.7,95700.0,0,2
+CNF1265,Male,Analyst,Wealth Management,Vancouver,3,86.8,66900.0,1,1
+CNF1266,Male,Analyst,Pension Administration,Toronto,1,70.1,73800.0,0,1
+CNF1267,Female,Senior Analyst,Pension Administration,Toronto,2,70.8,87100.0,2,2
+CNF1268,Female,Senior Analyst,Wealth Management,Vancouver,0,66.3,89000.0,0,2
+CNF1269,Female,Manager,Wealth Management,Calgary,4,79.6,122800.0,1,3
+CNF1270,Male,Analyst,Pension Administration,Calgary,15,64.1,73600.0,6,1
+CNF1271,Female,Manager,Wealth Management,Toronto,3,83.7,129100.0,1,3
+CNF1272,Male,Director,Wealth Management,Calgary,0,54.1,153200.0,0,4
+CNF1273,Male,Manager,Wealth Management,Toronto,4,54.6,127300.0,2,3
+CNF1274,Female,Analyst,Pension Administration,Calgary,2,79.6,72800.0,0,1
+CNF1275,Male,Senior Analyst,Retail Banking,Calgary,9,68.8,96000.0,7,2
+CNF1276,Male,Analyst,Pension Administration,Toronto,2,63.6,68600.0,1,1
+CNF1277,Male,Analyst,Wealth Management,Toronto,1,82.5,83900.0,0,1
+CNF1278,Female,VP,Pension Administration,Toronto,1,61.5,184100.0,0,5
+CNF1279,Female,Analyst,Pension Administration,Calgary,7,67.2,68900.0,4,1
+CNF1280,Male,Senior Analyst,Wealth Management,Toronto,1,89.6,112800.0,0,2
+CNF1281,Female,Manager,Pension Administration,Calgary,7,91.5,125700.0,6,3
+CNF1282,Male,Manager,Retail Banking,Toronto,1,92.0,132200.0,0,3
+CNF1283,Male,Senior Analyst,Pension Administration,Calgary,1,66.1,100900.0,0,2
+CNF1284,Female,Analyst,Wealth Management,Calgary,3,87.2,79500.0,2,1
+CNF1285,Female,Senior Analyst,Pension Administration,Toronto,14,56.7,71500.0,5,2
+CNF1286,Female,Senior Analyst,Pension Administration,Toronto,13,57.3,101200.0,4,2
+CNF1287,Male,Analyst,Pension Administration,Toronto,1,37.1,57200.0,0,1
+CNF1288,Female,Senior Analyst,Wealth Management,Calgary,2,93.4,95200.0,1,2
+CNF1289,Female,Analyst,Wealth Management,Calgary,0,57.9,61900.0,0,1
+CNF1290,Female,Analyst,Wealth Management,Toronto,3,68.2,72700.0,2,1
+CNF1291,Male,Senior Analyst,Wealth Management,Calgary,3,57.3,98700.0,2,2
+CNF1292,Female,Analyst,Wealth Management,Toronto,11,79.7,78300.0,4,1
+CNF1293,Female,Senior Analyst,Pension Administration,Toronto,13,64.7,89900.0,9,2
+CNF1294,Male,Manager,Wealth Management,Vancouver,2,51.7,120000.0,1,3
+CNF1295,Male,Director,Retail Banking,Toronto,3,76.2,155400.0,1,4
+CNF1296,Male,Analyst,Wealth Management,Toronto,11,49.9,87600.0,4,1
+CNF1297,Female,Analyst,Wealth Management,Toronto,8,58.3,72500.0,2,1
+CNF1298,Female,Analyst,Pension Administration,Toronto,0,40.5,47300.0,0,1
+CNF1299,Female,Manager,Retail Banking,Toronto,1,50.1,95500.0,0,3
+CNF1300,Female,Manager,Retail Banking,Toronto,2,72.5,109100.0,1,3
+CNF1301,Male,Analyst,Wealth Management,Calgary,1,42.5,76300.0,1,1
+CNF1302,Male,VP,Retail Banking,Toronto,1,49.3,172500.0,0,5
+CNF1303,Male,Analyst,Pension Administration,Toronto,0,70.0,68700.0,0,1
+CNF1304,Male,Senior Analyst,Pension Administration,Toronto,5,62.4,86000.0,4,2
+CNF1305,Male,Manager,Retail Banking,Toronto,1,97.9,111900.0,0,3
+CNF1306,Male,Director,Retail Banking,Calgary,0,95.7,156800.0,0,4
+CNF1307,Male,Manager,Pension Administration,Vancouver,1,57.8,114000.0,0,3
+CNF1308,Male,Director,Pension Administration,Toronto,8,77.8,165200.0,7,4
+CNF1309,Male,Senior Analyst,Pension Administration,Vancouver,9,80.5,108000.0,8,2
+CNF1310,Male,Director,Pension Administration,Toronto,3,61.6,148700.0,2,4
+CNF1311,Male,Analyst,Retail Banking,Toronto,2,49.1,58400.0,1,1
+CNF1312,Female,Director,Wealth Management,Toronto,19,69.8,181000.0,7,4
+CNF1313,Female,Senior Analyst,Pension Administration,Toronto,1,67.6,83200.0,0,2
+CNF1314,Female,Director,Wealth Management,Toronto,1,63.9,151800.0,0,4
+CNF1315,Male,Senior Analyst,Pension Administration,Calgary,1,76.2,91200.0,0,2
+CNF1316,Female,Manager,Pension Administration,Toronto,0,59.5,93700.0,0,3
+CNF1317,Female,Senior Analyst,Wealth Management,Vancouver,2,53.9,74900.0,1,2
+CNF1318,Female,Manager,Retail Banking,Toronto,12,71.5,114300.0,3,3
+CNF1319,Male,Analyst,Retail Banking,Toronto,4,75.4,78800.0,3,1
+CNF1320,Female,Analyst,Pension Administration,Calgary,2,53.5,62800.0,1,1
+CNF1321,Female,Analyst,Retail Banking,Toronto,13,83.0,83300.0,11,1
+CNF1322,Female,Analyst,Retail Banking,Toronto,0,45.2,45000.0,0,1
+CNF1323,Female,Director,Retail Banking,Calgary,1,61.9,140400.0,0,4
+CNF1324,Male,Analyst,Wealth Management,Vancouver,4,66.4,74600.0,1,1
+CNF1325,Female,VP,Wealth Management,Calgary,4,61.1,193300.0,3,5
+CNF1326,Male,Senior Analyst,Pension Administration,Calgary,0,62.1,84200.0,0,2
+CNF1327,Female,Analyst,Pension Administration,Calgary,2,96.2,71900.0,2,1
+CNF1328,Male,Manager,Pension Administration,Vancouver,5,58.1,123500.0,2,3
+CNF1329,Male,Manager,Pension Administration,Toronto,5,100.0,128000.0,2,3
+CNF1330,Male,Senior Analyst,Wealth Management,Toronto,5,76.1,98700.0,3,2
+CNF1331,Female,Senior Analyst,Wealth Management,Toronto,1,71.3,94100.0,0,2
+CNF1332,Male,Manager,Wealth Management,Toronto,0,76.7,122900.0,0,3
+CNF1333,Female,Analyst,Pension Administration,Calgary,2,100.0,94600.0,1,1
+CNF1334,Female,VP,Retail Banking,Calgary,0,56.1,175700.0,0,5
+CNF1335,Male,VP,Retail Banking,Toronto,14,54.3,197700.0,10,5
+CNF1336,Male,Manager,Retail Banking,Toronto,3,59.4,104400.0,2,3
+CNF1337,Male,Analyst,Retail Banking,Calgary,1,70.5,52900.0,0,1
+CNF1338,Female,Manager,Wealth Management,Toronto,7,45.8,110700.0,3,3
+CNF1339,Female,Analyst,Retail Banking,Calgary,3,70.3,60800.0,1,1
+CNF1340,Male,Analyst,Pension Administration,Toronto,1,93.7,88900.0,0,1
+CNF1341,Male,Analyst,Wealth Management,Toronto,8,72.1,95300.0,6,1
+CNF1342,Female,Senior Analyst,Pension Administration,Toronto,10,65.9,95200.0,3,2
+CNF1343,Female,Director,Pension Administration,Toronto,5,61.3,141200.0,2,4
+CNF1344,Female,Manager,Pension Administration,Calgary,0,82.6,111500.0,0,3
+CNF1345,Female,Manager,Wealth Management,Vancouver,4,58.4,112900.0,2,3
+CNF1346,Male,Senior Analyst,Retail Banking,Calgary,7,95.8,110100.0,4,2
+CNF1347,Male,Senior Analyst,Wealth Management,Toronto,0,97.1,106300.0,0,2
+CNF1348,Male,Senior Analyst,Pension Administration,Toronto,1,73.6,92700.0,0,2
+CNF1349,Male,VP,Retail Banking,Calgary,10,69.8,185400.0,3,5
+CNF1350,Male,Analyst,Wealth Management,Calgary,0,84.4,78900.0,0,1
+CNF1351,Male,Director,Wealth Management,Toronto,6,85.3,176100.0,3,4
+CNF1352,Male,Senior Analyst,Wealth Management,Toronto,3,58.7,92100.0,1,2
+CNF1353,Female,Senior Analyst,Pension Administration,Calgary,2,62.6,76700.0,0,2
+CNF1354,Female,Manager,Pension Administration,Toronto,0,51.5,106800.0,0,3
+CNF1355,Female,Senior Analyst,Retail Banking,Toronto,8,75.7,81400.0,6,2
+CNF1356,Female,Director,Pension Administration,Toronto,2,79.3,152400.0,0,4
+CNF1357,Male,Director,Wealth Management,Toronto,3,51.1,152700.0,1,4
+CNF1358,Female,Senior Analyst,Retail Banking,Vancouver,5,63.6,78600.0,4,2
+CNF1359,Male,Analyst,Wealth Management,Vancouver,6,51.1,70400.0,4,1
+CNF1360,Female,Manager,Pension Administration,Toronto,15,57.4,123000.0,8,3
+CNF1361,Male,Director,Pension Administration,Toronto,3,77.7,171900.0,2,4
+CNF1362,Female,Analyst,Pension Administration,Toronto,2,59.7,67900.0,1,1
+CNF1363,Male,Manager,Wealth Management,Toronto,15,65.8,133000.0,12,3
+CNF1364,Male,Manager,Wealth Management,Toronto,5,47.2,128500.0,3,3
+CNF1365,Female,Manager,Pension Administration,Calgary,1,72.6,106500.0,0,3
+CNF1366,Male,Analyst,Retail Banking,Toronto,0,69.4,73000.0,0,1
+CNF1367,Female,Manager,Wealth Management,Toronto,9,59.8,128600.0,8,3
+CNF1368,Female,Director,Pension Administration,Toronto,2,67.4,124200.0,1,4
+CNF1369,Female,Analyst,Wealth Management,Toronto,5,72.5,73000.0,2,1
+CNF1370,Female,Analyst,Wealth Management,Toronto,3,58.6,77700.0,2,1
+CNF1371,Female,VP,Pension Administration,Toronto,1,49.3,180200.0,0,5
+CNF1372,Male,Analyst,Pension Administration,Vancouver,4,95.3,76300.0,4,1
+CNF1373,Female,Director,Retail Banking,Toronto,0,61.1,127600.0,0,4
+CNF1374,Female,Senior Analyst,Wealth Management,Toronto,2,68.6,82900.0,2,2
+CNF1375,Female,Analyst,Wealth Management,Vancouver,3,84.2,78400.0,1,1
+CNF1376,Male,Director,Wealth Management,Vancouver,2,100.0,183100.0,1,4
+CNF1377,Female,Senior Analyst,Pension Administration,Toronto,6,52.6,90000.0,5,2
+CNF1378,Female,Senior Analyst,Pension Administration,Calgary,8,76.3,105600.0,3,2
+CNF1379,Female,Senior Analyst,Wealth Management,Toronto,7,60.1,102100.0,2,2
+CNF1380,Male,Manager,Pension Administration,Toronto,0,62.5,118500.0,0,3
+CNF1381,Male,Analyst,Pension Administration,Toronto,1,59.9,80300.0,0,1
+CNF1382,Male,Senior Analyst,Retail Banking,Calgary,3,54.2,83200.0,2,2
+CNF1383,Female,VP,Retail Banking,Calgary,13,69.4,189900.0,3,5
+CNF1384,Female,Analyst,Retail Banking,Toronto,9,49.4,68300.0,2,1
+CNF1385,Male,Manager,Retail Banking,Toronto,9,83.3,134200.0,5,3
+CNF1386,Male,Senior Analyst,Pension Administration,Calgary,1,70.8,86400.0,0,2
+CNF1387,Male,Manager,Retail Banking,Toronto,2,75.9,111000.0,1,3
+CNF1388,Male,Analyst,Pension Administration,Toronto,3,63.5,73000.0,2,1
+CNF1389,Female,VP,Retail Banking,Calgary,0,64.9,179700.0,0,5
+CNF1390,Female,Senior Analyst,Retail Banking,Calgary,0,74.0,81700.0,0,2
+CNF1391,Male,Analyst,Wealth Management,Calgary,14,53.7,76400.0,8,1
+CNF1392,Female,Analyst,Retail Banking,Vancouver,1,65.0,68200.0,0,1
+CNF1393,Male,Analyst,Wealth Management,Toronto,1,58.0,72000.0,0,1
+CNF1394,Female,Senior Analyst,Pension Administration,Calgary,0,57.5,74500.0,0,2
+CNF1395,Male,Senior Analyst,Wealth Management,Calgary,13,40.5,94000.0,4,2
+CNF1396,Male,Director,Wealth Management,Toronto,4,88.8,186400.0,2,4
+CNF1397,Male,Senior Analyst,Pension Administration,Toronto,5,60.4,94800.0,1,2
+CNF1398,Female,Analyst,Wealth Management,Toronto,12,86.3,85900.0,4,1
+CNF1399,Female,Manager,Retail Banking,Toronto,2,85.0,117200.0,0,3
+CNF1400,Female,Manager,Pension Administration,Calgary,4,52.0,109400.0,3,3

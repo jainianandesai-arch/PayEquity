@@ -1,0 +1,132 @@
+=================================================================
+PAY EQUITY REPORT
+CAN North Financial — Fiscal Year 2025
+Run date: 2026-06-17 15:35
+=================================================================
+
+  ⚠️  DECLARATION:
+  Analysis based on synthetic data. CAN North Financial is fictional. No real employees. No real salaries. No data saved or cached.
+
+─────────────────────────────────────────────────────────────────
+  THE FINDING — READ THIS FIRST
+─────────────────────────────────────────────────────────────────
+
+  WHAT:     Female employees earn $5,807 less than male employees on average — a gap of 5.2%.
+
+  WHY:      This gap is statistically significant (p=0.003885). It exists across 5 of 5 job grades. Under the Pay Equity Act, S.C. 2018, this requires a written remediation plan.
+
+  SO WHAT:  234 employees require salary adjustments totalling $1,684,100. Every month without a plan increases legal and reputational exposure.
+
+  HOW:      Phase in adjustments over 3 year(s) spending at least $1,513,371 per year (1% of payroll) as required by the Pay Equity Act, S.C. 2018 — Section 61(2).
+
+─────────────────────────────────────────────────────────────────
+  OVERALL PAY GAP
+─────────────────────────────────────────────────────────────────
+  Male average salary:    $   110,790
+  Female average salary:  $   104,983
+  Gap:                    $     5,807  (5.2%)
+  Statistically real:     Yes  (p=0.003885)
+
+─────────────────────────────────────────────────────────────────
+  GAP BY JOB GRADE
+  (Primary comparison — most defensible under the Act)
+─────────────────────────────────────────────────────────────────
+  Grade               Men      Women        Gap       %    Real?
+  ──────────── ────────── ────────── ────────── ─────── ────────
+  Grade 3      $   76,931 $   69,013 $    7,918   10.3%    ✅ Yes
+  Grade 4      $   96,175 $   89,995 $    6,180    6.4%    ✅ Yes
+  Grade 5      $  121,528 $  116,054 $    5,474    4.5%    ✅ Yes
+  Grade 6      $  157,569 $  146,945 $   10,624    6.7%    ✅ Yes
+  Grade 7      $  201,798 $  187,711 $   14,087    7.0%    ✅ Yes
+
+─────────────────────────────────────────────────────────────────
+  GAP BY JOB CLASS
+─────────────────────────────────────────────────────────────────
+  Job Class                             Men      Women        Gap    Real?
+  ────────────────────────────── ────────── ────────── ────────── ────────
+  Banking Analyst                $   69,814 $   62,858 $    6,956    ✅ Yes
+  Branch Manager                 $  116,187 $  110,472 $    5,715    ✅ Yes
+  Pension Analyst                $   76,034 $   65,503 $   10,530    ✅ Yes
+  Pension Director               $  154,575 $  150,019 $    4,556     — No
+  Pension Manager                $  119,369 $  111,571 $    7,798    ✅ Yes
+  Regional Director              $  151,489 $  136,807 $   14,683    ✅ Yes
+  Senior Banking Analyst         $   88,274 $   83,719 $    4,556    ✅ Yes
+  Senior Pension Analyst         $   94,862 $   87,557 $    7,305    ✅ Yes
+  Senior Wealth Analyst          $  101,922 $   95,256 $    6,666    ✅ Yes
+  Vice President — Banking       $  193,359 $  177,713 $   15,645    ✅ Yes
+  Vice President — Pension       $  201,447 $  191,080 $   10,367    ✅ Yes
+  Vice President — Wealth        $  207,519 $  194,340 $   13,179    ✅ Yes
+  Wealth Analyst                 $   81,715 $   75,560 $    6,155    ✅ Yes
+  Wealth Director                $  163,606 $  151,912 $   11,693    ✅ Yes
+  Wealth Manager                 $  127,234 $  123,032 $    4,202    ✅ Yes
+
+─────────────────────────────────────────────────────────────────
+  GAP BY DIVISION
+─────────────────────────────────────────────────────────────────
+  Division                         Men      Women        Gap    Real?
+  ───────────────────────── ────────── ────────── ────────── ────────
+  Pension Administration    $  107,009 $  103,366 $    3,643     — No
+  Retail Banking            $  106,162 $   99,984 $    6,179     — No
+  Wealth Management         $  116,919 $  109,399 $    7,520    ✅ Yes
+
+─────────────────────────────────────────────────────────────────
+  BUDGET OPTIMISATION
+─────────────────────────────────────────────────────────────────
+  Budget:              Legal minimum — 1% of payroll ($1,513,371) [Pay Equity Act, S.C. 2018 — s.61(2)]
+  Employees adjusted:  225
+  Employees deferred:  9
+  Risk closed:         91.4%
+  Gap closed:          89.7%
+
+  SCENARIO COMPARISON:
+  Scenario                                Employees  Risk Closed   Gap Closed
+  ────────────────────────────────────── ────────── ──────────── ────────────
+  Legal minimum — $1,513,371 (1% payrol         225        91.4%        89.7%
+  Recommended   — $2,270,056 (1.5% payr         234       100.0%       100.0%
+  Full closure  — $1,684,100                    234       100.0%       100.0%
+
+─────────────────────────────────────────────────────────────────
+  REMEDIATION PLAN
+  Pay Equity Act, S.C. 2018 — Section 61(2)
+─────────────────────────────────────────────────────────────────
+  Employees needing adjustment: 234
+  Total adjustment cost:        $1,684,100
+  Annual payroll:               $151,337,100
+  Legal minimum (1%):           $1,513,371
+  Phase in permitted:           Yes — 3 years
+
+  THREE YEAR PLAN:
+  Year             Budget    Employees          Spent
+  ──────── ────────────── ──────────── ──────────────
+  Year 1   $    1,513,371          225 $    1,510,900
+  Year 2   $    1,513,371            9 $      173,200
+
+─────────────────────────────────────────────────────────────────
+  BUSINESS CASE
+─────────────────────────────────────────────────────────────────
+  Total remediation cost:       $1,684,100
+  Retention value:              $1,248,000
+  Legal risk avoided:           $5,052,300
+  Net benefit:                  $4,616,200
+
+─────────────────────────────────────────────────────────────────
+  LEGAL REFERENCES
+  All sourced from official government websites only.
+─────────────────────────────────────────────────────────────────
+  Pay Equity Act, S.C. 2018, c. 27, s. 416
+  laws-lois.justice.gc.ca/eng/acts/P-4.2/
+  Employers with 100+ employees may phase in adjustments over maximum 3 years. Minimum annual spend: 1% of previous year payroll.
+
+  Pay Equity Act, R.S.O. 1990, c. P.7
+  ontario.ca/laws/statute/90p07
+  Same 1% minimum annual rule. All incumbents in a female job class must receive the same dollar adjustment.
+
+─────────────────────────────────────────────────────────────────
+  FILES SAVED:
+  ✅ outputs/pay_equity_results.json
+  ✅ outputs/pay_equity_report.txt
+  ✅ outputs/remediation_list.csv
+
+  Next: agent reads these results
+  and answers your questions in plain English.
+=================================================================
