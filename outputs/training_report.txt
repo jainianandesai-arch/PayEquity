@@ -1,0 +1,70 @@
+=================================================================
+PAY EQUITY TRAINING REPORT
+CAN North Financial
+Run date: 2026-06-17 08:36
+=================================================================
+
+⚠️  DECLARATION:
+  Training data is synthetic.
+  CAN North Financial is fictional.
+  No real employees. No real salaries.
+  No personal information used or stored.
+
+  DATASET:
+  Employees:      1,400
+  Male:           751
+  Female:         649
+  Avg salary:     $108,332
+  Salary range:   $45,000 — $222,800
+
+  INTERNAL SALARY BANDS:
+  (Derived from internal data — not market data)
+  Role                        Min        Mid        Max
+  -------------------- ---------- ---------- ----------
+  Analyst              $   65,100 $   73,600 $   81,400
+  Senior Analyst       $   85,600 $   92,900 $  101,300
+  Manager              $  111,400 $  119,400 $  127,200
+  Director             $  143,200 $  152,200 $  161,900
+  VP                   $  188,200 $  197,000 $  206,200
+
+  REGRESSION MODEL (Ridge):
+  Alpha:          1
+  R-squared:      0.9387
+  MAE:            $7,610
+  Overfit gap:    -0.0017
+  ✅ No overfitting — model generalizes well
+
+  PAY GAP FINDINGS:
+  Raw gap:        $5,437
+  Explained:      $-2,671 (-49.1%)
+  Unexplained:    $8,107 (149.1%)
+  Significant:    Yes (p=0.007174)
+  → Legally actionable: $8,107
+
+  REMEDIATION PLAN:
+  Employees affected: 215
+  Total cost:         $1,522,200
+  Legal min (1%):     $1,516,649
+  Phase in 3 years:   Yes
+
+  THREE YEAR PLAN:
+  Year           Budget    Employees        Spent
+  ──────── ──────────── ──────────── ────────────
+  Year 1   $  2,274,974          215 $  1,522,200
+
+  LEGISLATIVE REFERENCES:
+  Pay Equity Act, S.C. 2018, c. 27, s. 416
+  laws-lois.justice.gc.ca/eng/acts/P-4.2/
+  Ontario Pay Equity Act, R.S.O. 1990, c. P.7
+  ontario.ca/laws/statute/90p07
+
+  FILES SAVED:
+  ✅ models/pay_equity_model.pkl
+  ✅ models/pay_equity_scaler.pkl
+  ✅ models/pay_equity_features.pkl
+  ✅ models/pay_equity_bands.pkl
+  ✅ models/pay_equity_metadata.pkl
+  ✅ outputs/remediation_list.csv
+
+  Next step: streamlit run app.py
+=================================================================
