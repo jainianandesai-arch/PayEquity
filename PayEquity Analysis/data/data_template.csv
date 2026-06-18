@@ -1,4 +1,0 @@
-employee_id,gender,role_level,division,location,tenure_years,performance,salary
-EMP001,Female,Analyst,Finance,Toronto,3,72,68000
-EMP002,Male,Manager,Operations,Calgary,8,85,115000
-EMP003,Non-binary,Director,Finance,Vancouver,12,91,148000
