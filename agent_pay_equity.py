@@ -52,6 +52,8 @@ from dotenv import load_dotenv
 load_dotenv()
 warnings.filterwarnings('ignore')
 
+ANTHROPIC_API_KEY = os.environ.get("ANTHROPIC_API_KEY")
+
 
 # ══════════════════════════════════════════════════════════════════════════
 # CONFIGURATION
@@ -414,8 +416,7 @@ def ask_agent(question, system_prompt, conversation_history):
 
     from dotenv import load_dotenv
     load_dotenv()
-    client = anthropic.Anthropic(api_key=os.environ.get("ANTHROPIC_API_KEY"))
-
+    client = anthropic.Anthropic(api_key=ANTHROPIC_API_KEY)
     conversation_history.append({
         'role':    'user',
         'content': question,
