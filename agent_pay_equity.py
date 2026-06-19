@@ -412,7 +412,9 @@ def ask_agent(question, system_prompt, conversation_history):
         updated_history  conversation history updated
     """
 
-    client = anthropic.Anthropic()
+    from dotenv import load_dotenv
+    load_dotenv()
+    client = anthropic.Anthropic(api_key=os.environ.get("ANTHROPIC_API_KEY"))
 
     conversation_history.append({
         'role':    'user',
